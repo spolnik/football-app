@@ -138,7 +138,7 @@
       "group": "D",
       "name": "Manchester City FC",
       "code": "MCFC",
-      "shortName": "ManCity",
+      "shortName": "Man City",
       "squadMarketValue": "480,850,000 €",
       "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/fd/ManCity.svg"
     },
@@ -252,7 +252,7 @@
       "group": "B",
       "name": "PSV Eindhoven",
       "code": "PSV",
-      "shortName": "Eindhoven",
+      "shortName": "PSV",
       "squadMarketValue": "96,300,000 €",
       "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/05/PSV_Eindhoven.svg"
     },
@@ -271,7 +271,7 @@
       "group": "B",
       "name": "Manchester United FC",
       "code": "MUFC",
-      "shortName": "ManU",
+      "shortName": "Man Utd",
       "squadMarketValue": "377,250,000 €",
       "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
     },
@@ -518,7 +518,7 @@
       "group": "E",
       "name": "AS Roma",
       "code": "ROM",
-      "shortName": "Rom",
+      "shortName": "Roma",
       "squadMarketValue": "258,850,000 €",
       "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg"
     },

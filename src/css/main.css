@@ -7,6 +7,15 @@ img.img-thumbnail {
     height: 140px;
 }
 
+img.img-small {
+    width: 25px;
+    height: 25px;
+}
+
+.short-name {
+    margin-left: 10px;
+}
+
 footer {
     padding: 10px 20px;
 }
