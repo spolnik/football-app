@@ -1,0 +1,21 @@
+{
+  "name": "football-app",
+  "version": "1.0.0",
+  "authors": [
+    "Jacek Spólnik <jacek.spolnik@gmail.com>"
+  ],
+  "description": "Football App",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "react": "~0.13.3"
+  }
+}
