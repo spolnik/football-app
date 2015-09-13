@@ -17,6 +17,7 @@
   "devDependencies": {
     "bootstrap": "~3.3.5",
     "font-awesome": "~4.4.0",
+    "jQuery-One-Page-Nav": "~3.0.0",
     "react": "~0.13.3"
   }
 }

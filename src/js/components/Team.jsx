@@ -56,21 +56,7 @@ var Group = React.createClass({
 var Table = React.createClass({
     render: function () {
         var teamRows = this.props.teams.map(function (team, id) {
-
-            return (
-                <tr>
-                    <td>{id + 1}</td>
-                    <td><SmallTeam team={team}/></td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0</td>
-                </tr>
-            );
+            return <TableRow id={id} team={team} />;
         });
 
         return (
@@ -79,20 +65,39 @@ var Table = React.createClass({
                 <tr>
                     <th>#</th>
                     <th>Team</th>
-                    <th>GP</th>
-                    <th>W</th>
-                    <th>D</th>
-                    <th>L</th>
-                    <th>GF</th>
-                    <th>GA</th>
-                    <th>GD</th>
-                    <th>PTS</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Played">P</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Won">W</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Drawn">D</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Lost">L</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Goals For">GF</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Goals Against">GA</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Goals Difference">+/-</th>
+                    <th data-toggle="tooltip" data-placement="top" title="Points">Pts</th>
                 </tr>
                 </thead>
                 <tbody>
-                {teamRows}
+                    {teamRows}
                 </tbody>
             </table>
+        );
+    }
+});
+
+var TableRow = React.createClass({
+    render: function () {
+        return (
+            <tr>
+                <td>{this.props.id + 1}</td>
+                <td><SmallTeam team={this.props.team}/></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
         );
     }
 });
