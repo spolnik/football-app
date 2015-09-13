@@ -15,9 +15,17 @@ var AllTeams = React.createClass({
         });
     },
     render: function () {
-        var teamNodes = this.state.teams.map(function (team) {
+        var groups = { "A": [], "B": [], "C": [], "D": [], "E": [], "F": [], "G": [], "H": []};
+
+        this.state.teams.map(function (team) {
+            groups[team.group].push(team);
+        });
+
+        var keys = Object.keys(groups);
+
+        var teamNodes = keys.map(function (key) {
             return (
-                <Team team={team} />
+                <Group teams={groups[key]} group={key} />
             );
         });
         return (
@@ -28,18 +36,21 @@ var AllTeams = React.createClass({
     }
 });
 
+var Group = React.createClass({
+    render: function() {
+        var teamNodes = this.props.teams.map(function (team) {
+            return (
+                <Team team={team} />
+            );
+        });
+        return <div className="row">
+            <h2>Group {this.props.group}</h2>
+            {teamNodes}
+        </div>;
+    }
+});
+
 var Team = React.createClass({
-    getInitialState: function() {
-        return {
-            team: {
-                name: "Dummy Team",
-                code: "FC Dummy",
-                shortName: "Dummy",
-                squadMarketValue: "0 €",
-                crestUrl: ""
-            }
-        }
-    },
     render: function() {
         return <div className="col-md-3 text-center">
             <h2>{this.props.team.shortName}</h2>
