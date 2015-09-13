@@ -4,7 +4,7 @@ var Group = React.createClass({
             return parseInt(b.squadMarketValue) - parseInt(a.squadMarketValue);
         }).map(function (team) {
             return (
-                <Team team={team}/>
+                <Team team={team} key={team.name} />
             );
         });
         return <div className="group" id={this.props.group.toLowerCase()}>
@@ -15,6 +15,7 @@ var Group = React.createClass({
 
                 <div className="panel-body">
                     {teamNodes}
+                    <Fixtures fixtures={this.props.fixtures} />
                 </div>
                 <Table teams={this.props.teams}/>
             </div>

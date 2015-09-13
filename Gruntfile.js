@@ -39,11 +39,13 @@ module.exports = function(grunt) {
                     'bower_components/jquery/dist/jquery.js',
                     'bower_components/bootstrap/dist/js/bootstrap.js',
                     'bower_components/jQuery-One-Page-Nav/jquery.nav.js',
+                    'bower_components/jquery-dateFormat/dist/jquery-dateFormat.js',
                     'bower_components/react/react.js',
                     'build/Team.js',
                     'build/SmallTeam.js',
                     'build/TableRow.js',
                     'build/Table.js',
+                    'build/Fixtures.js',
                     'build/Group.js',
                     'build/AllTeams.js',
                     'build/main.js'

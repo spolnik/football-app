@@ -1,11 +1,8 @@
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-img.img-thumbnail {
+.img-thumbnail {
   width: 140px;
   height: 140px; }
 
-img.img-small {
+.img-small {
   width: 25px;
   height: 25px; }
 
@@ -15,11 +12,15 @@ img.img-small {
 footer {
   padding: 10px 20px; }
 
-div.jumbotron {
+.jumbotron {
   background: url(http://img.uefa.com/imgml/comp/ucl/season2015-16/brand/bg.jpg) no-repeat center top;
   color: #fff; }
 
 .group {
   padding-top: 55px; }
+
+.fixture {
+  margin: 10px 0;
+  font-size: 1.5em; }
 
 /*# sourceMappingURL=main.css.map */

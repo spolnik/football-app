@@ -1,7 +1,7 @@
 var Table = React.createClass({
     render: function () {
         var teamRows = this.props.teams.map(function (team, id) {
-            return <TableRow id={id} team={team} />;
+            return <TableRow id={id} team={team} key={team.name} />;
         });
 
         return (
