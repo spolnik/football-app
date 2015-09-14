@@ -11,11 +11,11 @@ var Table = React.createClass({
                     <th>#</th>
                     <th>Team</th>
                     <th title="Played">P</th>
-                    <th title="Won">W</th>
-                    <th title="Drawn">D</th>
-                    <th title="Lost">L</th>
-                    <th title="Goals For">GF</th>
-                    <th title="Goals Against">GA</th>
+                    <th className="hidden-xs" title="Won">W</th>
+                    <th className="hidden-xs" title="Drawn">D</th>
+                    <th className="hidden-xs" title="Lost">L</th>
+                    <th className="hidden-xs" title="Goals For">GF</th>
+                    <th className="hidden-xs" title="Goals Against">GA</th>
                     <th title="Goals Difference">+/-</th>
                     <th title="Points">Pts</th>
                 </tr>
