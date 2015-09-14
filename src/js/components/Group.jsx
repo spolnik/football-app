@@ -15,7 +15,7 @@ var Group = React.createClass({
 
                 <div className="panel-body">
                     <ul className="nav nav-tabs" role="tablist">
-                        <li role="presentation" class="active">
+                        <li role="presentation" className="active">
                             <a href={"#teams" + this.props.group} aria-controls={"teams" + this.props.group}
                                role="tab" data-toggle="tab">Teams</a>
                         </li>

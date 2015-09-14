@@ -45,6 +45,7 @@ module.exports = function(grunt) {
                     'build/SmallTeam.js',
                     'build/TableRow.js',
                     'build/Table.js',
+                    'build/Fixture.js',
                     'build/Fixtures.js',
                     'build/Group.js',
                     'build/AllTeams.js',
@@ -103,6 +104,13 @@ module.exports = function(grunt) {
                     ext: '.js'
                 }]
             }
+        },
+        watch: {
+            files: 'src/js/**/*.{jsx,coffee}',
+            tasks: ['js'],
+            options: {
+                reload: true
+            }
         }
     });
 
@@ -114,6 +122,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-coffee');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
+    grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-postcss');
     grunt.loadNpmTasks('grunt-babel');
 
@@ -127,5 +136,9 @@ module.exports = function(grunt) {
 
     grunt.registerTask('default',
         ['clean', /*'imagemin',*/ 'js', 'css']
+    );
+
+    grunt.registerTask('watch',
+        ['watch']
     );
 };

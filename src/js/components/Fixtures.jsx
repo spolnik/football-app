@@ -1,38 +1,50 @@
 var Fixtures = React.createClass({
+    getInitialState: function() {
+        return {
+            round: 1
+        };
+    },
+    previousRound: function() {
+        var round = this.state.round;
+
+        if (round > 1) {
+            this.setState({round: round - 1});
+        }
+    },
+    nextRound: function() {
+        var round = this.state.round;
+
+        if (round < 6) {
+            this.setState({round: round + 1});
+        }
+    },
     render: function () {
 
-        var fixtureNodes = this.props.fixtures.map(function (fixture) {
-            var matchDay = new Date(fixture.date);
-            var matchDate = $.format.date(matchDay, 'dd MMMM yyyy');
-            var matchTime = $.format.date(matchDay, 'HH.mm');
+        var fixtureNodes = this.props.fixtures.filter(function (item, id) {
+            var to = this.state.round * 2;
+            var from = this.state.round * 2 - 2;
 
-            var findTeam = function (teamName) {
-                return fixture.group.filter(function (team) {
-                    return team.name === teamName;
-                })[0];
-            };
-
-            var homeTeam = findTeam(fixture.homeTeamName);
-            var awayTeam = findTeam(fixture.awayTeamName);
-
-            return (
-                <li className="list-group-item">
-                    <div className="row"><h6>{matchDate}</h6></div>
-                    <div className="row text-center fixture">
-                        <span className="col-md-3 col-md-offset-1">{homeTeam.shortName}</span>
-                        <img src={homeTeam.crestUrl} alt={homeTeam.shortName} className="img-responsive col-md-1"/>
-                        <span className="col-md-2">{matchTime}</span>
-                        <img src={awayTeam.crestUrl} alt={awayTeam.shortName} className="img-responsive col-md-1"/>
-                        <span className="col-md-3">{awayTeam.shortName}</span>
-                    </div>
-                </li>
-            )
+            return id >= from && id < to;
+        }.bind(this)).map(function (fixture) {
+            return <Fixture fixture={fixture}  />
         });
 
         return (
-            <ul className="col-md-8 col-md-offset-2 list-group">
-                {fixtureNodes}
-            </ul>
+            <div className="fixtures">
+                <ul className="col-md-12 list-group">
+                    {fixtureNodes}
+                </ul>
+                <nav className="col-md-12">
+                    <ul className="pager">
+                        <li className="previous">
+                            <a href="javascript:void(0)" onClick={this.previousRound}>Previous</a>
+                        </li>
+                        <li className="next">
+                            <a href="javascript:void(0)" onClick={this.nextRound}>Next</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
         );
     }
 });
