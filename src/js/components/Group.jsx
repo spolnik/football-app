@@ -14,10 +14,28 @@ var Group = React.createClass({
                 </div>
 
                 <div className="panel-body">
-                    {teamNodes}
-                    <Fixtures fixtures={this.props.fixtures} />
+                    <ul className="nav nav-tabs" role="tablist">
+                        <li role="presentation" class="active">
+                            <a href={"#teams" + this.props.group} aria-controls={"teams" + this.props.group}
+                               role="tab" data-toggle="tab">Teams</a>
+                        </li>
+                        <li role="presentation">
+                            <a href={"#standings" + this.props.group} aria-controls={"standings" + this.props.group}
+                               role="tab" data-toggle="tab">Standings</a>
+                        </li>
+                        <li role="presentation">
+                            <a href={"#fixtures" + this.props.group} aria-controls={"fixtures" + this.props.group}
+                               role="tab" data-toggle="tab">Fixtures</a>
+                        </li>
+                    </ul>
+
+                    <div className="tab-content">
+                        <div role="tabpanel" className="tab-pane fade in active" id={"teams" + this.props.group}>{teamNodes}</div>
+                        <div role="tabpanel" className="tab-pane fade" id={"standings" + this.props.group}><Table teams={this.props.teams}/></div>
+                        <div role="tabpanel" className="tab-pane fade" id={"fixtures" + this.props.group}><Fixtures fixtures={this.props.fixtures} /></div>
+                    </div>
                 </div>
-                <Table teams={this.props.teams}/>
+
             </div>
         </div>;
     }
