@@ -1,6 +1,6 @@
 class Group extends React.Component {
     render() {
-        var teamNodes = this.props.teams.sort((a, b) => {
+        let teamNodes = this.props.teams.sort((a, b) => {
             return parseInt(b.squadMarketValue) - parseInt(a.squadMarketValue);
         }).map((team) => {
             return (

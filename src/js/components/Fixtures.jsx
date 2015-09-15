@@ -6,25 +6,27 @@ class Fixtures extends React.Component {
     }
 
     previousRound() {
-        var round = this.state.round;
+        const FIRST_ROUND = 1;
+        let round = this.state.round;
 
-        if (round > 1) {
+        if (round > FIRST_ROUND) {
             this.setState({round: round - 1});
         }
     }
 
     nextRound() {
-        var round = this.state.round;
+        const LAST_ROUND = 6;
+        let round = this.state.round;
 
-        if (round < 6) {
+        if (round < LAST_ROUND) {
             this.setState({round: round + 1});
         }
     }
 
     render() {
-        var fixtureNodes = this.props.fixtures.filter((item, id) => {
-            var to = this.state.round * 2;
-            var from = this.state.round * 2 - 2;
+        let fixtureNodes = this.props.fixtures.filter((item, id) => {
+            let to = this.state.round * 2;
+            let from = this.state.round * 2 - 2;
 
             return id >= from && id < to;
         }).map((fixture) => {
