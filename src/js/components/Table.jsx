@@ -21,7 +21,7 @@ class Table extends React.Component {
                 </tr>
                 </thead>
                 <tbody>
-                {teamRows}
+                    {teamRows}
                 </tbody>
             </table>
         );

@@ -17,25 +17,25 @@ class Group extends React.Component {
                 <div className="panel-body">
                     <ul className="nav nav-tabs" role="tablist">
                         <li role="presentation" className="active">
-                            <a href={"#standings" + this.props.group} aria-controls={"standings" + this.props.group}
+                            <a href={`#standings${this.props.group}`} aria-controls={`standings${this.props.group}`}
                                role="tab" data-toggle="tab">Standings</a>
                         </li>
                         <li role="presentation">
-                            <a href={"#fixtures" + this.props.group} aria-controls={"fixtures" + this.props.group}
+                            <a href={`#fixtures${this.props.group}`} aria-controls={`fixtures${this.props.group}`}
                                role="tab" data-toggle="tab">Fixtures</a>
                         </li>
                         <li role="presentation">
-                            <a href={"#teams" + this.props.group} aria-controls={"teams" + this.props.group}
+                            <a href={`#teams${this.props.group}`} aria-controls={`teams${this.props.group}`}
                                role="tab" data-toggle="tab">Teams</a>
                         </li>
                     </ul>
 
                     <div className="tab-content">
-                        <div role="tabpanel" className="tab-pane fade in active" id={"standings" + this.props.group}>
+                        <div role="tabpanel" className="tab-pane fade in active" id={`standings${this.props.group}`}>
                             <Table teams={this.props.teams}/></div>
-                        <div role="tabpanel" className="tab-pane fade" id={"fixtures" + this.props.group}><Fixtures
+                        <div role="tabpanel" className="tab-pane fade" id={`fixtures${this.props.group}`}><Fixtures
                             fixtures={this.props.fixtures}/></div>
-                        <div role="tabpanel" className="tab-pane fade" id={"teams" + this.props.group}>{teamNodes}</div>
+                        <div role="tabpanel" className="tab-pane fade" id={`teams${this.props.group}`}>{teamNodes}</div>
                     </div>
                 </div>
 
