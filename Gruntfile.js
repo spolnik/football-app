@@ -73,6 +73,9 @@ module.exports = function(grunt) {
             }
         },
         babel: {
+            options: {
+                sourceMap: true
+            },
             dist: {
                 files: [{
                     expand: true,
