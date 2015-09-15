@@ -22,12 +22,12 @@ class Fixtures extends React.Component {
     }
 
     render() {
-        var fixtureNodes = this.props.fixtures.filter(function (item, id) {
+        var fixtureNodes = this.props.fixtures.filter((item, id) => {
             var to = this.state.round * 2;
             var from = this.state.round * 2 - 2;
 
             return id >= from && id < to;
-        }.bind(this)).map(function (fixture) {
+        }).map((fixture) => {
             return <Fixture fixture={fixture}/>
         });
 

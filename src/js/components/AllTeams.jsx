@@ -37,7 +37,7 @@ class AllTeams extends React.Component {
             fixturesMap[team.group].push(fixture);
         });
 
-        var teamNodes = groupKeys.map(function (key) {
+        var teamNodes = groupKeys.map((key) => {
             return (
                 <Group teams={groups[key]} group={key} key={key} fixtures={fixturesMap[key]}/>
             );
