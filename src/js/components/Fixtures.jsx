@@ -1,32 +1,34 @@
-var Fixtures = React.createClass({
-    getInitialState: function() {
-        return {
-            round: 1
-        };
-    },
-    previousRound: function() {
+class Fixtures extends React.Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {round: 1}
+    }
+
+    previousRound() {
         var round = this.state.round;
 
         if (round > 1) {
             this.setState({round: round - 1});
         }
-    },
-    nextRound: function() {
+    }
+
+    nextRound() {
         var round = this.state.round;
 
         if (round < 6) {
             this.setState({round: round + 1});
         }
-    },
-    render: function () {
+    }
 
+    render() {
         var fixtureNodes = this.props.fixtures.filter(function (item, id) {
             var to = this.state.round * 2;
             var from = this.state.round * 2 - 2;
 
             return id >= from && id < to;
         }.bind(this)).map(function (fixture) {
-            return <Fixture fixture={fixture}  />
+            return <Fixture fixture={fixture}/>
         });
 
         return (
@@ -37,14 +39,14 @@ var Fixtures = React.createClass({
                 <nav className="col-md-12">
                     <ul className="pager">
                         <li className="previous">
-                            <a href="javascript:void(0)" onClick={this.previousRound}>Previous</a>
+                            <a href="javascript:void(0)" onClick={this.previousRound.bind(this)}>Previous</a>
                         </li>
                         <li className="next">
-                            <a href="javascript:void(0)" onClick={this.nextRound}>Next</a>
+                            <a href="javascript:void(0)" onClick={this.nextRound.bind(this)}>Next</a>
                         </li>
                     </ul>
                 </nav>
             </div>
         );
     }
-});
+}

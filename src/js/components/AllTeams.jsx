@@ -1,11 +1,14 @@
-var AllTeams = React.createClass({
-    getInitialState: function () {
-        return {
+class AllTeams extends React.Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {
             teams: [],
             fixtures: []
         };
-    },
-    componentDidMount: function () {
+    }
+
+    componentDidMount() {
         $.getJSON(this.props.teamsUrl, function (result) {
             this.setState({teams: result.teams});
         }.bind(this));
@@ -13,8 +16,9 @@ var AllTeams = React.createClass({
         $.getJSON(this.props.fixturesUrl, function (result) {
             this.setState({fixtures: result.fixtures});
         }.bind(this));
-    },
-    render: function () {
+    }
+
+    render() {
         var groups = {"A": [], "B": [], "C": [], "D": [], "E": [], "F": [], "G": [], "H": []};
         var fixturesMap = {"A": [], "B": [], "C": [], "D": [], "E": [], "F": [], "G": [], "H": []};
 
@@ -35,12 +39,12 @@ var AllTeams = React.createClass({
 
         var teamNodes = groupKeys.map(function (key) {
             return (
-                <Group teams={groups[key]} group={key} key={key} fixtures={fixturesMap[key]} />
+                <Group teams={groups[key]} group={key} key={key} fixtures={fixturesMap[key]}/>
             );
         });
 
         return <div>{teamNodes}</div>;
     }
-});
+}
 
 React.render(<AllTeams teamsUrl="teams.json" fixturesUrl="fixtures.json" />, document.getElementById('content'));

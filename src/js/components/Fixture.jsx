@@ -1,5 +1,5 @@
-var Fixture = React.createClass({
-    render: function () {
+class Fixture extends React.Component {
+    render() {
 
         var matchDay = new Date(this.props.fixture.date);
         var matchDate = $.format.date(matchDay, 'dd MMMM yyyy');
@@ -19,12 +19,14 @@ var Fixture = React.createClass({
                 <div><h6>{matchDate}</h6></div>
                 <div className="row text-center fixture">
                     <span className="col-md-3 col-md-offset-1">{homeTeam.shortName}</span>
-                    <img src={homeTeam.crestUrl} alt={homeTeam.shortName} className="img-responsive match-logo col-md-1"/>
+                    <img src={homeTeam.crestUrl} alt={homeTeam.shortName}
+                         className="img-responsive match-logo col-md-1"/>
                     <span className="col-md-2">{matchTime}</span>
-                    <img src={awayTeam.crestUrl} alt={awayTeam.shortName} className="img-responsive match-logo col-md-1"/>
+                    <img src={awayTeam.crestUrl} alt={awayTeam.shortName}
+                         className="img-responsive match-logo col-md-1"/>
                     <span className="col-md-3">{awayTeam.shortName}</span>
                 </div>
             </li>
         );
     }
-});
+}

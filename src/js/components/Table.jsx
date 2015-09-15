@@ -1,7 +1,7 @@
-var Table = React.createClass({
-    render: function () {
+class Table extends React.Component {
+    render() {
         var teamRows = this.props.teams.map(function (team, id) {
-            return <TableRow id={id} team={team} key={team.name} />;
+            return <TableRow id={id} team={team} key={team.name}/>;
         });
 
         return (
@@ -26,4 +26,4 @@ var Table = React.createClass({
             </table>
         );
     }
-});
+}

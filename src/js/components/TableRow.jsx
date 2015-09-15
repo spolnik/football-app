@@ -1,5 +1,5 @@
-var TableRow = React.createClass({
-    render: function () {
+class TableRow extends React.Component {
+    render() {
         return (
             <tr>
                 <td>{this.props.id + 1}</td>
@@ -15,4 +15,4 @@ var TableRow = React.createClass({
             </tr>
         );
     }
-});
+}

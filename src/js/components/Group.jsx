@@ -1,10 +1,10 @@
-var Group = React.createClass({
-    render: function () {
+class Group extends React.Component {
+    render() {
         var teamNodes = this.props.teams.sort(function (a, b) {
             return parseInt(b.squadMarketValue) - parseInt(a.squadMarketValue);
         }).map(function (team) {
             return (
-                <Team team={team} key={team.name} />
+                <Team team={team} key={team.name}/>
             );
         });
         return <div className="group" id={this.props.group.toLowerCase()}>
@@ -15,7 +15,7 @@ var Group = React.createClass({
 
                 <div className="panel-body">
                     <ul className="nav nav-tabs" role="tablist">
-                       <li role="presentation" className="active">
+                        <li role="presentation" className="active">
                             <a href={"#standings" + this.props.group} aria-controls={"standings" + this.props.group}
                                role="tab" data-toggle="tab">Standings</a>
                         </li>
@@ -30,8 +30,10 @@ var Group = React.createClass({
                     </ul>
 
                     <div className="tab-content">
-                        <div role="tabpanel" className="tab-pane fade in active" id={"standings" + this.props.group}><Table teams={this.props.teams}/></div>
-                        <div role="tabpanel" className="tab-pane fade" id={"fixtures" + this.props.group}><Fixtures fixtures={this.props.fixtures} /></div>
+                        <div role="tabpanel" className="tab-pane fade in active" id={"standings" + this.props.group}>
+                            <Table teams={this.props.teams}/></div>
+                        <div role="tabpanel" className="tab-pane fade" id={"fixtures" + this.props.group}><Fixtures
+                            fixtures={this.props.fixtures}/></div>
                         <div role="tabpanel" className="tab-pane fade" id={"teams" + this.props.group}>{teamNodes}</div>
                     </div>
                 </div>
@@ -39,4 +41,4 @@ var Group = React.createClass({
             </div>
         </div>;
     }
-});
+}
