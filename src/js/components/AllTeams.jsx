@@ -29,9 +29,9 @@ class AllTeams extends React.Component {
         let groupKeys = Object.keys(groups);
 
         this.state.fixtures.map((fixture) => {
-            let team = this.state.teams.filter((team) => {
-                return team.name === fixture.homeTeamName;
-            })[0];
+            let team = this.state.teams.find(team =>
+                team.name === fixture.homeTeamName
+            );
 
             fixture['group'] = groups[team.group];
             fixturesMap[team.group].push(fixture);

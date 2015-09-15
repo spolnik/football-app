@@ -5,10 +5,10 @@ class Fixture extends React.Component {
         let matchDate = $.format.date(matchDay, 'dd MMMM yyyy');
         let matchTime = $.format.date(matchDay, 'HH.mm');
 
-        let findTeam = (teamName) => {
-            return this.props.fixture.group.filter((team) => {
-                return team.name === teamName;
-            })[0];
+        let findTeam = teamName => {
+            return this.props.fixture.group.find(team =>
+                team.name === teamName
+            );
         };
 
         let homeTeam = findTeam(this.props.fixture.homeTeamName);

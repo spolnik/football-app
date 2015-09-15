@@ -1,12 +1,10 @@
 class Group extends React.Component {
     render() {
-        let teamNodes = this.props.teams.sort((a, b) => {
-            return parseInt(b.squadMarketValue) - parseInt(a.squadMarketValue);
-        }).map((team) => {
-            return (
+        let teamNodes = this.props.teams.sort((a, b) =>
+                parseInt(b.squadMarketValue) - parseInt(a.squadMarketValue)
+        ).map(team =>
                 <Team team={team} key={team.name}/>
-            );
-        });
+        );
 
         return <div className="group" id={this.props.group.toLowerCase()}>
             <div className="panel panel-default">
