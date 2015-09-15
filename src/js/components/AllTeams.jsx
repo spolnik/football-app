@@ -16,24 +16,11 @@ class AllTeams extends React.Component {
     }
 
     render() {
-        let groups = {"A": [], "B": [], "C": [], "D": [], "E": [], "F": [], "G": [], "H": []};
-        let fixturesMap = {"A": [], "B": [], "C": [], "D": [], "E": [], "F": [], "G": [], "H": []};
 
-        this.state.teams.forEach(team => groups[team.group].push(team));
+        let groups = Group.buildGroups(this.state.teams, this.state.fixtures);
 
-        let groupKeys = Object.keys(groups);
-
-        this.state.fixtures.map(fixture => {
-            let team = this.state.teams.find(team =>
-                team.name === fixture.homeTeamName
-            );
-
-            fixture['group'] = groups[team.group];
-            fixturesMap[team.group].push(fixture);
-        });
-
-        let teamNodes = groupKeys.map(key =>
-            <Group teams={groups[key]} group={key} key={key} fixtures={fixturesMap[key]}/>
+        let teamNodes = groups.map(group =>
+            <GroupBlock group={group} key={group.name} />
         );
 
         return <div>{teamNodes}</div>;

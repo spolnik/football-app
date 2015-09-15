@@ -41,6 +41,7 @@ module.exports = function(grunt) {
                     'bower_components/jQuery-One-Page-Nav/jquery.nav.js',
                     'bower_components/jquery-dateFormat/dist/jquery-dateFormat.js',
                     'bower_components/react/react.js',
+                    'build/domain/Group.js',
                     'build/components/Team.js',
                     'build/components/SmallTeam.js',
                     'build/components/TableRow.js',
@@ -73,9 +74,6 @@ module.exports = function(grunt) {
             }
         },
         babel: {
-            options: {
-                sourceMap: true
-            },
             dist: {
                 files: [{
                     expand: true,
@@ -84,13 +82,6 @@ module.exports = function(grunt) {
                     dest: 'build',
                     ext: '.js'
                 }]
-            }
-        },
-        watch: {
-            files: 'src/js/**/*.{jsx,coffee}',
-            tasks: ['js'],
-            options: {
-                reload: true
             }
         }
     });
@@ -102,7 +93,6 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
-    grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-postcss');
     grunt.loadNpmTasks('grunt-babel');
 
@@ -116,9 +106,5 @@ module.exports = function(grunt) {
 
     grunt.registerTask('default',
         ['clean', 'js', 'css']
-    );
-
-    grunt.registerTask('watch',
-        ['watch']
     );
 };
