@@ -14,11 +14,12 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
+  "dependencies": {
     "bootstrap": "~3.3.5",
     "font-awesome": "~4.4.0",
     "jQuery-One-Page-Nav": "~3.0.0",
     "jquery-dateFormat": "~1.0.2",
+    "modernizr": "~2.8.3",
     "react": "~0.13.3"
   }
 }

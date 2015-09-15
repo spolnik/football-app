@@ -41,15 +41,15 @@ module.exports = function(grunt) {
                     'bower_components/jQuery-One-Page-Nav/jquery.nav.js',
                     'bower_components/jquery-dateFormat/dist/jquery-dateFormat.js',
                     'bower_components/react/react.js',
-                    'build/Team.js',
-                    'build/SmallTeam.js',
-                    'build/TableRow.js',
-                    'build/Table.js',
-                    'build/Fixture.js',
-                    'build/Fixtures.js',
-                    'build/Group.js',
-                    'build/AllTeams.js',
-                    'build/main.js'
+                    'build/components/Team.js',
+                    'build/components/SmallTeam.js',
+                    'build/components/TableRow.js',
+                    'build/components/Table.js',
+                    'build/components/Fixture.js',
+                    'build/components/Fixtures.js',
+                    'build/components/Group.js',
+                    'build/components/AllTeams.js',
+                    'build/app.js'
                 ],
                 dest: 'build/bundle.js'
             }
@@ -72,34 +72,12 @@ module.exports = function(grunt) {
                 }
             }
         },
-        coffee: {
-            compile: {
-                files: {
-                    'build/main.js': 'src/js/app.coffee'
-                }
-            }
-        //},
-        //imagemin: {
-        //    static: {
-        //        files: {
-        //            'dist/overlays/02.png': 'app/overlays/02.png'
-        //        }
-        //    },
-        //    dynamic: {
-        //        files: [{
-        //            expand: true,
-        //            cwd: 'app/img/',
-        //            src: ['**/*.{png,jpg}'],
-        //            dest: 'dist/img/'
-        //        }]
-        //    }
-        },
         babel: {
             dist: {
                 files: [{
                     expand: true,
-                    cwd: 'src/js/components',
-                    src: ["**/*.jsx"],
+                    cwd: 'src/js',
+                    src: ["**/*.{jsx,js}"],
                     dest: 'build',
                     ext: '.js'
                 }]
@@ -120,14 +98,13 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
-    grunt.loadNpmTasks('grunt-contrib-coffee');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-postcss');
     grunt.loadNpmTasks('grunt-babel');
 
     grunt.registerTask('js',
-        ['babel', 'coffee', 'jshint', 'concat', 'uglify']
+        ['babel', 'jshint', 'concat', 'uglify']
     );
 
     grunt.registerTask('css',
@@ -135,7 +112,7 @@ module.exports = function(grunt) {
     );
 
     grunt.registerTask('default',
-        ['clean', /*'imagemin',*/ 'js', 'css']
+        ['clean', 'js', 'css']
     );
 
     grunt.registerTask('watch',
