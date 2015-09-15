@@ -29,9 +29,7 @@ class Fixtures extends React.Component {
             let from = this.state.round * 2 - 2;
 
             return id >= from && id < to;
-        }).map((fixture) => {
-            return <Fixture fixture={fixture}/>
-        });
+        }).map(fixture => <Fixture fixture={fixture}/>);
 
         return (
             <div className="fixtures">

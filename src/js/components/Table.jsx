@@ -1,8 +1,9 @@
 class Table extends React.Component {
+
     render() {
-        let teamRows = this.props.teams.map((team, id) => {
-            return <TableRow id={id} team={team} key={team.name}/>;
-        });
+        let teamRows = this.props.teams.map((team, id) =>
+            <TableRow id={id} team={team} key={team.name}/>
+        );
 
         return (
             <table className="table table-striped table-hover">
