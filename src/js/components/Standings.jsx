@@ -37,7 +37,7 @@ class Standings extends React.Component {
                     <th className="hidden-xs" title="Lost">L</th>
                     <th className="hidden-xs" title="Goals For">GF</th>
                     <th className="hidden-xs" title="Goals Against">GA</th>
-                    <th title="Goals Difference">+/-</th>
+                    <th title="Goals Difference">GD</th>
                     <th title="Points">Pts</th>
                 </tr>
                 </thead>

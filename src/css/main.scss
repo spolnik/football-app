@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 .img-thumbnail {
     width: 140px;
     height: 140px;
@@ -44,4 +48,10 @@ footer {
 
 .fixtures {
   margin-top: 30px;
+}
+
+.match-result {
+  font-weight: bold;
+  font-size: 1.5em;
+
 }

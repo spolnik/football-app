@@ -18,7 +18,7 @@ class Fixture extends React.Component {
                     <span className="col-md-3 col-md-offset-1">{this.props.fixture.homeTeam.shortName}</span>
                     <img src={this.props.fixture.homeTeam.crestUrl} alt={this.props.fixture.homeTeam.shortName}
                          className="img-responsive match-logo col-md-1"/>
-                    <span className="col-md-2">{matchResult}</span>
+                    <span className="col-md-2 match-result">{matchResult}</span>
                     <img src={this.props.fixture.awayTeam.crestUrl} alt={this.props.fixture.awayTeam.shortName}
                          className="img-responsive match-logo col-md-1"/>
                     <span className="col-md-3">{this.props.fixture.awayTeam.shortName}</span>
