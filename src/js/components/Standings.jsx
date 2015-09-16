@@ -1,9 +1,29 @@
 class Standings extends React.Component {
 
+    static standingsSort(a,b) {
+        if (a.points === b.points) {
+            if (a.goalsDifference === b.goalsDifference) {
+                return a.goalsFor < b.goalsFor;
+            }
+
+            return a.goalsDifference < b.goalsDifference;
+        }
+
+        return a.points < b.points;
+    }
+
     render() {
-        let teamRows = this.props.group.teams.map((team, id) =>
-            <TableRow id={id} team={team} key={team.name}/>
-        );
+
+        let teams = this.props.group.teams.map(team => {
+            let teamFixtures = this.props.group.fixtures.filter(fixture =>
+                fixture.homeTeamName === team.name || fixture.awayTeamName === team.name);
+
+            return new TeamGroupResults(team, teamFixtures);
+        });
+
+        let teamRows = teams.sort(Standings.standingsSort).map((team, id) => {
+            return <TableRow id={id} team={team} key={team.name} />;
+        });
 
         return (
             <table className="table table-striped table-hover">

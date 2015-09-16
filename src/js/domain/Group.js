@@ -1,29 +1,29 @@
 class Group {
 
     constructor(name) {
-        this.groupName = name;
-        this.groupTeams = [];
-        this.groupFixtures = [];
+        this._name = name;
+        this._teams = [];
+        this._fixtures = [];
     }
 
     get name() {
-        return this.groupName;
+        return this._name;
     }
 
     addTeam(team) {
-        this.groupTeams.push(team);
+        this._teams.push(team);
     }
 
     get teams() {
-        return this.groupTeams;
+        return this._teams;
     }
 
     addFixture(fixture) {
-        this.fixtures.push(fixture);
+        this._fixtures.push(fixture);
     }
 
     get fixtures() {
-        return this.groupFixtures;
+        return this._fixtures;
     }
 
     static buildGroups(rawTeams, rawFixtures) {

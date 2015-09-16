@@ -42,6 +42,7 @@ module.exports = function(grunt) {
                     'bower_components/jquery-dateFormat/dist/jquery-dateFormat.js',
                     'bower_components/react/react.js',
                     'build/domain/Group.js',
+                    'build/domain/TeamGroupResults.js',
                     'build/components/Team.js',
                     'build/components/SmallTeam.js',
                     'build/components/TableRow.js',
