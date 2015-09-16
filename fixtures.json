@@ -25,13 +25,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "PSV Eindhoven",
       "awayTeamName": "Manchester United FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -50,13 +50,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "VfL Wolfsburg",
       "awayTeamName": "CSKA Moscow",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -75,13 +75,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Real Madrid CF",
       "awayTeamName": "Shakhtar Donetsk",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -100,13 +100,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Paris Saint-Germain",
       "awayTeamName": "Malmö FF",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -125,13 +125,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Galatasaray SK",
       "awayTeamName": "Club Atlético de Madrid",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -150,13 +150,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Manchester City FC",
       "awayTeamName": "Juventus Turin",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -175,13 +175,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Sevilla FC",
       "awayTeamName": "Bor. Mönchengladbach",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -200,13 +200,13 @@
         }
       },
       "date": "2015-09-15T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Benfica Lissabon",
       "awayTeamName": "FC Astana",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
       }
     },
     {
