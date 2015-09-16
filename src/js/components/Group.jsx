@@ -4,7 +4,7 @@ class GroupBlock extends React.Component {
         let teamNodes = this.props.group.teams.sort((a, b) =>
             parseInt(b.squadMarketValue) - parseInt(a.squadMarketValue)
         ).map(team =>
-            <Team team={team} key={team.name}/>
+            <Team name={team.shortName} logoUrl={team.crestUrl} marketValue={team.squadMarketValue} key={team.shortName}/>
         );
 
         return (
@@ -32,10 +32,12 @@ class GroupBlock extends React.Component {
 
                         <div className="tab-content">
                             <div role="tabpanel" className="tab-pane fade in active" id={`standings${this.props.group.name}`}>
-                                <Table teams={this.props.group.teams}/></div>
+                                <Standings group={this.props.group}/></div>
                             <div role="tabpanel" className="tab-pane fade" id={`fixtures${this.props.group.name}`}>
-                                <Fixtures fixtures={this.props.group.fixtures}/></div>
-                            <div role="tabpanel" className="tab-pane fade" id={`teams${this.props.group.name}`}>{teamNodes}</div>
+                                <Fixtures group={this.props.group}/></div>
+                            <div role="tabpanel" className="tab-pane fade" id={`teams${this.props.group.name}`}>
+                                {teamNodes}
+                            </div>
                         </div>
                     </div>
 

@@ -24,7 +24,7 @@ class Fixtures extends React.Component {
     }
 
     render() {
-        let fixtureNodes = this.props.fixtures.filter((item, id) => {
+        let fixtureNodes = this.props.group.fixtures.filter((item, id) => {
             let to = this.state.round * 2;
             let from = this.state.round * 2 - 2;
 

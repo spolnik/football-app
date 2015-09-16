@@ -45,7 +45,7 @@ module.exports = function(grunt) {
                     'build/components/Team.js',
                     'build/components/SmallTeam.js',
                     'build/components/TableRow.js',
-                    'build/components/Table.js',
+                    'build/components/Standings.js',
                     'build/components/Fixture.js',
                     'build/components/Fixtures.js',
                     'build/components/Group.js',

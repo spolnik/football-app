@@ -1,7 +1,7 @@
-class Table extends React.Component {
+class Standings extends React.Component {
 
     render() {
-        let teamRows = this.props.teams.map((team, id) =>
+        let teamRows = this.props.group.teams.map((team, id) =>
             <TableRow id={id} team={team} key={team.name}/>
         );
 
