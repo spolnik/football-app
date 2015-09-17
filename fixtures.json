@@ -225,13 +225,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "GNK Dinamo Zagreb",
       "awayTeamName": "Arsenal FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -250,13 +250,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Olympiacos F.C.",
       "awayTeamName": "FC Bayern München",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -275,13 +275,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "KAA Gent",
       "awayTeamName": "Olympique Lyonnais",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -300,13 +300,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "AS Roma",
       "awayTeamName": "FC Barcelona",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -325,13 +325,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Valencia CF",
       "awayTeamName": "FC Zenit St. Petersburg",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -350,13 +350,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Bayer Leverkusen",
       "awayTeamName": "FK BATE Baryssau",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -375,13 +375,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Chelsea FC",
       "awayTeamName": "Maccabi Tel Aviv",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -400,13 +400,13 @@
         }
       },
       "date": "2015-09-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Dynamo Kyiv",
       "awayTeamName": "FC Porto",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
       }
     },
     {
