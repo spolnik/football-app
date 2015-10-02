@@ -230,8 +230,8 @@
       "homeTeamName": "GNK Dinamo Zagreb",
       "awayTeamName": "Arsenal FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -255,8 +255,8 @@
       "homeTeamName": "Olympiacos F.C.",
       "awayTeamName": "FC Bayern München",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -280,8 +280,8 @@
       "homeTeamName": "KAA Gent",
       "awayTeamName": "Olympique Lyonnais",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -305,8 +305,8 @@
       "homeTeamName": "AS Roma",
       "awayTeamName": "FC Barcelona",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -330,8 +330,8 @@
       "homeTeamName": "Valencia CF",
       "awayTeamName": "FC Zenit St. Petersburg",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -355,8 +355,8 @@
       "homeTeamName": "Bayer Leverkusen",
       "awayTeamName": "FK BATE Baryssau",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -380,8 +380,8 @@
       "homeTeamName": "Chelsea FC",
       "awayTeamName": "Maccabi Tel Aviv",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -405,8 +405,8 @@
       "homeTeamName": "Dynamo Kyiv",
       "awayTeamName": "FC Porto",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -430,8 +430,8 @@
       "homeTeamName": "FC Barcelona",
       "awayTeamName": "Bayer Leverkusen",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -455,8 +455,8 @@
       "homeTeamName": "Arsenal FC",
       "awayTeamName": "Olympiacos F.C.",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -480,8 +480,8 @@
       "homeTeamName": "FC Bayern München",
       "awayTeamName": "GNK Dinamo Zagreb",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -505,8 +505,8 @@
       "homeTeamName": "FK BATE Baryssau",
       "awayTeamName": "AS Roma",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -530,8 +530,8 @@
       "homeTeamName": "FC Zenit St. Petersburg",
       "awayTeamName": "KAA Gent",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -555,8 +555,8 @@
       "homeTeamName": "Olympique Lyonnais",
       "awayTeamName": "Valencia CF",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -580,8 +580,8 @@
       "homeTeamName": "Maccabi Tel Aviv",
       "awayTeamName": "Dynamo Kyiv",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -605,8 +605,8 @@
       "homeTeamName": "FC Porto",
       "awayTeamName": "Chelsea FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -630,8 +630,8 @@
       "homeTeamName": "FC Astana",
       "awayTeamName": "Galatasaray SK",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -655,8 +655,8 @@
       "homeTeamName": "CSKA Moscow",
       "awayTeamName": "PSV Eindhoven",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -680,8 +680,8 @@
       "homeTeamName": "Juventus Turin",
       "awayTeamName": "Sevilla FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -705,8 +705,8 @@
       "homeTeamName": "Malmö FF",
       "awayTeamName": "Real Madrid CF",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -730,8 +730,8 @@
       "homeTeamName": "Shakhtar Donetsk",
       "awayTeamName": "Paris Saint-Germain",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -755,8 +755,8 @@
       "homeTeamName": "Club Atlético de Madrid",
       "awayTeamName": "Benfica Lissabon",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -780,8 +780,8 @@
       "homeTeamName": "Manchester United FC",
       "awayTeamName": "VfL Wolfsburg",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -805,8 +805,8 @@
       "homeTeamName": "Bor. Mönchengladbach",
       "awayTeamName": "Manchester City FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
       }
     },
     {

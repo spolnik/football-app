@@ -1,15 +1,16 @@
 class Standings extends React.Component {
 
     static standingsSort(a,b) {
+
         if (a.points === b.points) {
             if (a.goalsDifference === b.goalsDifference) {
-                return a.goalsFor < b.goalsFor;
+                return b.goalsFor - a.goalsFor;
             }
 
-            return a.goalsDifference < b.goalsDifference;
+            return b.goalsDifference - a.goalsDifference;
         }
 
-        return a.points < b.points;
+        return b.points - a.points;
     }
 
     render() {
