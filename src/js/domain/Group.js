@@ -57,7 +57,7 @@ export default class Group {
         let fixtures = [];
 
         rawFixtures
-            .filter(fixture => fixture.matchday >= matchday && fixture.matchday <= matchday)
+            .filter(fixture => fixture.matchday === matchday)
             .forEach(fixture => {
                 fixture.homeTeam = rawTeams.find(team => team.name === fixture.homeTeamName);
                 fixture.awayTeam = rawTeams.find(team => team.name === fixture.awayTeamName);
@@ -66,8 +66,13 @@ export default class Group {
                     firstFixture => firstFixture.homeTeamName === fixture.awayTeamName && firstFixture.awayTeamName === fixture.homeTeamName);
 
                 if (firstFixture) {
-                    fixture.result.aggregateGoalsHomeTeam = firstFixture.result.goalsAwayTeam + fixture.result.goalsHomeTeam;
-                    fixture.result.aggregateGoalsAwayTeam = firstFixture.result.goalsHomeTeam + fixture.result.goalsAwayTeam;
+                    if (fixture.result.extraTime) {
+                        fixture.result.aggregateGoalsHomeTeam = firstFixture.result.goalsAwayTeam + fixture.result.extraTime.goalsHomeTeam;
+                        fixture.result.aggregateGoalsAwayTeam = firstFixture.result.goalsHomeTeam + fixture.result.extraTime.goalsAwayTeam;
+                    } else {
+                        fixture.result.aggregateGoalsHomeTeam = firstFixture.result.goalsAwayTeam + fixture.result.goalsHomeTeam;
+                        fixture.result.aggregateGoalsAwayTeam = firstFixture.result.goalsHomeTeam + fixture.result.goalsAwayTeam;
+                    }
                 }
 
                 fixtures.push(fixture);

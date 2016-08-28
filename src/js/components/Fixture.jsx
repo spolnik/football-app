@@ -15,12 +15,21 @@ export default class Fixture extends React.Component {
 
         let aggregateResult;
         if (this.props.fixture.result.aggregateGoalsHomeTeam) {
-            aggregateResult = `Aggregate: ${this.props.fixture.result.aggregateGoalsHomeTeam}-${this.props.fixture.result.aggregateGoalsAwayTeam}`;
+            aggregateResult = <div><span style={{fontSize: '0.8em'}}>
+                Aggregate: {this.props.fixture.result.aggregateGoalsHomeTeam}-{this.props.fixture.result.aggregateGoalsAwayTeam}
+            </span></div>;
+        }
+
+        if (this.props.fixture.result.extraTime) {
+            matchResult =
+                `${this.props.fixture.result.extraTime.goalsHomeTeam} : ${this.props.fixture.result.extraTime.goalsAwayTeam}`;
         }
 
         let penalties;
         if (this.props.fixture.result.penaltyShootout) {
             penalties = `(${this.props.fixture.result.penaltyShootout.goalsHomeTeam}-${this.props.fixture.result.penaltyShootout.goalsAwayTeam} p)`;
+        } else if (this.props.fixture.result.extraTime) {
+            penalties = 'Extra Time';
         }
 
         return (
@@ -31,8 +40,8 @@ export default class Fixture extends React.Component {
                     <img src={this.props.fixture.homeTeam.crestUrl} alt={this.props.fixture.homeTeam.shortName}
                          className="img-responsive match-logo col-md-1"/>
                     <div className="col-md-2">
-                        <span className="match-result">{matchResult}</span><br />
-                        <span style={{fontSize: '0.8em'}}>{aggregateResult}</span><br />
+                        <div><span className="match-result">{matchResult}</span></div>
+                        {aggregateResult}
                         <span className="text-success" style={{fontSize: '0.7em'}}>{penalties}</span>
                     </div>
                     <img src={this.props.fixture.awayTeam.crestUrl} alt={this.props.fixture.awayTeam.shortName}
