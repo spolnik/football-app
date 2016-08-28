@@ -1,4 +1,7 @@
-class Fixtures extends React.Component {
+import React from 'react';
+import Fixture from './Fixture';
+
+export default class Fixtures extends React.Component {
 
     constructor(props) {
         super(props);
@@ -29,7 +32,7 @@ class Fixtures extends React.Component {
             let from = this.state.round * 2 - 2;
 
             return id >= from && id < to;
-        }).map(fixture => <Fixture fixture={fixture}/>);
+        }).map((fixture, idx) => <Fixture fixture={fixture} key={idx}/>);
 
         return (
             <div className="fixtures">

@@ -1,4 +1,6 @@
-class SmallTeam extends React.Component {
+import React from 'react';
+
+export default class SmallTeam extends React.Component {
 
     render() {
         return (

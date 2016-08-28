@@ -1,4 +1,4 @@
-class TeamGroupResults {
+export default class TeamGroupResults {
 
     constructor(team, fixtures) {
         this._team = team;

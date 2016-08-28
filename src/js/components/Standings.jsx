@@ -1,4 +1,8 @@
-class Standings extends React.Component {
+import React from 'react';
+import TableRow from './TableRow';
+import TeamGroupResults from '../domain/TeamGroupResults';
+
+export default class Standings extends React.Component {
 
     static standingsSort(a,b) {
 

@@ -1,4 +1,9 @@
-class AllTeams extends React.Component {
+import React from 'react';
+import GroupBlock from './Group'
+import Group from '../domain/Group';
+import $ from 'jquery';
+
+export default class AllTeams extends React.Component {
 
     constructor(props) {
         super(props);
@@ -27,4 +32,3 @@ class AllTeams extends React.Component {
     }
 }
 
-React.render(<AllTeams teamsUrl="teams.json" fixturesUrl="fixtures.json" />, document.getElementById('content'));

@@ -1,4 +1,4 @@
-class Group {
+export default class Group {
 
     constructor(name) {
         this._name = name;
@@ -37,6 +37,10 @@ class Group {
         });
 
         rawFixtures.forEach(fixture => {
+            if (fixture.matchday > 6) {
+                return;
+            }
+
             let teamGroup = rawTeams.find(team => team.name === fixture.homeTeamName).group;
             let group = groups.find(group => group.name === teamGroup);
 
