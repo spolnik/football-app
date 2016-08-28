@@ -52,4 +52,21 @@ export default class Group {
 
         return groups;
     }
+
+    static buildKnockoutStage(rawTeams, rawFixtures, matchday) {
+        let fixtures = [];
+
+        rawFixtures.forEach(fixture => {
+            if (fixture.matchday < matchday || fixture.matchday > matchday) {
+                return;
+            }
+
+            fixture.homeTeam = rawTeams.find(team => team.name === fixture.homeTeamName);
+            fixture.awayTeam = rawTeams.find(team => team.name === fixture.awayTeamName);
+
+            fixtures.push(fixture);
+        });
+
+        return fixtures;
+    }
 }

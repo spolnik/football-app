@@ -13,6 +13,11 @@ export default class Fixture extends React.Component {
                 `${this.props.fixture.result.goalsHomeTeam} : ${this.props.fixture.result.goalsAwayTeam}`;
         }
 
+        let penalties;
+        if (this.props.fixture.result.penaltyShootout) {
+            penalties = `(${this.props.fixture.result.penaltyShootout.goalsHomeTeam}-${this.props.fixture.result.penaltyShootout.goalsAwayTeam} p)`;
+        }
+
         return (
             <li className="list-group-item">
                 <div><h6>{matchDate}</h6></div>
@@ -20,7 +25,10 @@ export default class Fixture extends React.Component {
                     <span className="col-md-3 col-md-offset-1">{this.props.fixture.homeTeam.shortName}</span>
                     <img src={this.props.fixture.homeTeam.crestUrl} alt={this.props.fixture.homeTeam.shortName}
                          className="img-responsive match-logo col-md-1"/>
-                    <span className="col-md-2 match-result">{matchResult}</span>
+                    <div className="col-md-2">
+                        <span className="match-result">{matchResult}</span><br />
+                        <span className="text-success" style={{fontSize: '0.7em'}}>{penalties}</span>
+                    </div>
                     <img src={this.props.fixture.awayTeam.crestUrl} alt={this.props.fixture.awayTeam.shortName}
                          className="img-responsive match-logo col-md-1"/>
                     <span className="col-md-3">{this.props.fixture.awayTeam.shortName}</span>
