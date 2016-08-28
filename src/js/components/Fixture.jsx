@@ -13,6 +13,11 @@ export default class Fixture extends React.Component {
                 `${this.props.fixture.result.goalsHomeTeam} : ${this.props.fixture.result.goalsAwayTeam}`;
         }
 
+        let aggregateResult;
+        if (this.props.fixture.result.aggregateGoalsHomeTeam) {
+            aggregateResult = `Aggregate: ${this.props.fixture.result.aggregateGoalsHomeTeam}-${this.props.fixture.result.aggregateGoalsAwayTeam}`;
+        }
+
         let penalties;
         if (this.props.fixture.result.penaltyShootout) {
             penalties = `(${this.props.fixture.result.penaltyShootout.goalsHomeTeam}-${this.props.fixture.result.penaltyShootout.goalsAwayTeam} p)`;
@@ -27,6 +32,7 @@ export default class Fixture extends React.Component {
                          className="img-responsive match-logo col-md-1"/>
                     <div className="col-md-2">
                         <span className="match-result">{matchResult}</span><br />
+                        <span style={{fontSize: '0.8em'}}>{aggregateResult}</span><br />
                         <span className="text-success" style={{fontSize: '0.7em'}}>{penalties}</span>
                     </div>
                     <img src={this.props.fixture.awayTeam.crestUrl} alt={this.props.fixture.awayTeam.shortName}

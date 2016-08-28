@@ -56,16 +56,22 @@ export default class Group {
     static buildKnockoutStage(rawTeams, rawFixtures, matchday) {
         let fixtures = [];
 
-        rawFixtures.forEach(fixture => {
-            if (fixture.matchday < matchday || fixture.matchday > matchday) {
-                return;
-            }
+        rawFixtures
+            .filter(fixture => fixture.matchday >= matchday && fixture.matchday <= matchday)
+            .forEach(fixture => {
+                fixture.homeTeam = rawTeams.find(team => team.name === fixture.homeTeamName);
+                fixture.awayTeam = rawTeams.find(team => team.name === fixture.awayTeamName);
 
-            fixture.homeTeam = rawTeams.find(team => team.name === fixture.homeTeamName);
-            fixture.awayTeam = rawTeams.find(team => team.name === fixture.awayTeamName);
+                const firstFixture = fixtures.find(
+                    firstFixture => firstFixture.homeTeamName === fixture.awayTeamName && firstFixture.awayTeamName === fixture.homeTeamName);
 
-            fixtures.push(fixture);
-        });
+                if (firstFixture) {
+                    fixture.result.aggregateGoalsHomeTeam = firstFixture.result.goalsAwayTeam + fixture.result.goalsHomeTeam;
+                    fixture.result.aggregateGoalsAwayTeam = firstFixture.result.goalsHomeTeam + fixture.result.goalsAwayTeam;
+                }
+
+                fixtures.push(fixture);
+            });
 
         return fixtures;
     }
