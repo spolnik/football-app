@@ -32,7 +32,7 @@ export default class AllTeams extends React.Component {
         return <div>
             {groupNodes}
             <KnockoutStage
-                name="Round of 16"
+                name="Round-of-16"
                 fixtures={Group.buildKnockoutStage(this.state.teams, this.state.fixtures, 7)}
                 numOfMatchDay={8}
             />
