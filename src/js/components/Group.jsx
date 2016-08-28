@@ -1,4 +1,9 @@
-class GroupBlock extends React.Component {
+import React from 'react';
+import Team from './Team';
+import Standings from './Standings';
+import Fixtures from './Fixtures';
+
+export default class GroupBlock extends React.Component {
 
     render() {
         let teamNodes = this.props.group.teams.sort((a, b) =>

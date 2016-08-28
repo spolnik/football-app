@@ -1,12 +1,14 @@
-class Fixture extends React.Component {
+import React from 'react';
+
+export default class Fixture extends React.Component {
 
     render() {
 
         let matchDay = new Date(this.props.fixture.date);
-        let matchDate = $.format.date(matchDay, 'dd MMMM yyyy');
-        let matchResult = $.format.date(matchDay, 'HH.mm');
+        let matchDate = Date.parse(matchDay).toString('dd MMMM yyyy');
+        let matchResult = Date.parse(matchDay).toString('HH.mm');
 
-        if (matchDay < new Date()) {
+        if (matchDay < Date.today()) {
             matchResult =
                 `${this.props.fixture.result.goalsHomeTeam} : ${this.props.fixture.result.goalsAwayTeam}`;
         }

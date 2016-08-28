@@ -1,4 +1,7 @@
-class TableRow extends React.Component {
+import React from 'react';
+import SmallTeam from './SmallTeam';
+
+export default class TableRow extends React.Component {
 
     render() {
         let teamGroupResults = this.props.team;
