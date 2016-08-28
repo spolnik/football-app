@@ -1,9 +1,6 @@
 body {
     padding-top: 50px;
     padding-bottom: 10px;
-}
-
-body, p, button {
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
 }
@@ -59,5 +56,4 @@ footer {
 .match-result {
     font-weight: bold;
     font-size: 1.5em;
-
 }

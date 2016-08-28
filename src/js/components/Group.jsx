@@ -39,7 +39,7 @@ export default class GroupBlock extends React.Component {
                             <div role="tabpanel" className="tab-pane fade in active" id={`standings${this.props.group.name}`}>
                                 <Standings group={this.props.group}/></div>
                             <div role="tabpanel" className="tab-pane fade" id={`fixtures${this.props.group.name}`}>
-                                <Fixtures group={this.props.group}/></div>
+                                <Fixtures fixtures={this.props.group.fixtures} numOfMatchDay={6}/></div>
                             <div role="tabpanel" className="tab-pane fade" id={`teams${this.props.group.name}`}>
                                 {teamNodes}
                             </div>
