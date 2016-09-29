@@ -13,7 +13,16 @@ $("a[href*='#']").mPageScroll2id({
     targetClass: 'active'
 });
 
-ReactDOM.render(
-    <AllTeams teamsUrl="teams.json" fixturesUrl="fixtures.json"/>,
-    document.getElementById('content')
-);
+var content = document.getElementById('content');
+
+if (content) {
+    ReactDOM.render(
+        <AllTeams teamsUrl="teams.json" fixturesUrl="fixtures.json"/>,
+        document.getElementById('content')
+    );
+} else {
+    ReactDOM.render(
+        <AllTeams teamsUrl="teams-2016.json" fixturesUrl="fixtures-2016.json"/>,
+        document.getElementById('content_2016')
+    );
+}
