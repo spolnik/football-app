@@ -1,0 +1,2413 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://api.football-data.org/alpha/soccerseasons/440/fixtures"
+    },
+    "soccerseason": {
+      "href": "http://api.football-data.org/alpha/soccerseasons/440"
+    }
+  },
+  "count": 96,
+  "fixtures": [
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155221"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/729"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/753"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "FC Basel",
+      "awayTeamName": "Ludogorez Rasgrad",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155233"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/495"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/600"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "SL Benfica",
+      "awayTeamName": "Besiktas JK",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155252"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/674"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/78"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "PSV Eindhoven",
+      "awayTeamName": "Club Atlético de Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155245"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/732"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "Celtic FC",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155234"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/842"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/113"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Dynamo Kyiv",
+      "awayTeamName": "SSC Napoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155222"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/524"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/57"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Paris Saint-Germain",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155327"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1104"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "FC Rostov",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155294"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/523"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/755"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Olympique Lyonnais",
+      "awayTeamName": "GNK Dinamo Zagreb",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155246"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/18"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "Bor. Mönchengladbach",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155263"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/3"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/751"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Bayer Leverkusen",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155264"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/548"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "AS Monaco FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155281"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/851"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/338"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Club Brugge",
+      "awayTeamName": "Leicester City FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155293"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/559"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155282"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/503"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/725"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "FC Porto",
+      "awayTeamName": "FC Copenhagen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155270"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/498"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "Sporting CP",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155321"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1105"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/4"
+        }
+      },
+      "date": "2016-09-14T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Legia Warszawa",
+      "awayTeamName": "Borussia Dortmund",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 6
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155291"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/755"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/109"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "GNK Dinamo Zagreb",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155292"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/523"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "Olympique Lyonnais",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155262"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/3"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "Bayer Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155320"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/498"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1105"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Sporting CP",
+      "awayTeamName": "Legia Warszawa",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155261"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/751"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/73"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155280"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/338"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/503"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Leicester City FC",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155269"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/4"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/86"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155279"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/725"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/851"
+        }
+      },
+      "date": "2016-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "FC Copenhagen",
+      "awayTeamName": "Club Brugge",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155232"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/495"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "SL Benfica",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155220"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/753"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/524"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Ludogorez Rasgrad",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155219"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/729"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155251"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/78"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/5"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155231"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/600"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/842"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Besiktas JK",
+      "awayTeamName": "Dynamo Kyiv",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155244"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/732"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/65"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Celtic FC",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155243"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/18"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/81"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Bor. Mönchengladbach",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155326"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1104"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/674"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "FC Rostov",
+      "awayTeamName": "PSV Eindhoven",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155260"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/751"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/548"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "AS Monaco FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155278"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/338"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/725"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Leicester City FC",
+      "awayTeamName": "FC Copenhagen",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155277"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/851"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/503"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Club Brugge",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155290"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/523"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/109"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Olympique Lyonnais",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155289"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/755"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/559"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "GNK Dinamo Zagreb",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155319"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1105"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "Legia Warszawa",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155268"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/498"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/4"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Sporting CP",
+      "awayTeamName": "Borussia Dortmund",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155259"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/3"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/73"
+        }
+      },
+      "date": "2016-10-18T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Bayer Leverkusen",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155217"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/753"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Ludogorez Rasgrad",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155325"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1104"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/78"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "FC Rostov",
+      "awayTeamName": "Club Atlético de Madrid",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155241"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/65"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155242"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/732"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/18"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Celtic FC",
+      "awayTeamName": "Bor. Mönchengladbach",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155218"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/524"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/729"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Paris Saint-Germain",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155230"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/600"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Besiktas JK",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155229"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/842"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/495"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "Dynamo Kyiv",
+      "awayTeamName": "SL Benfica",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155250"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/674"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 3,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "PSV Eindhoven",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155324"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/78"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1104"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "FC Rostov",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155227"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/495"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/842"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "SL Benfica",
+      "awayTeamName": "Dynamo Kyiv",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155240"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/81"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155239"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/18"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/732"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Bor. Mönchengladbach",
+      "awayTeamName": "Celtic FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155249"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/674"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/5"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "PSV Eindhoven",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155228"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/600"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/113"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Besiktas JK",
+      "awayTeamName": "SSC Napoli",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155215"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/729"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/524"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "FC Basel",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155216"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/753"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/57"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Ludogorez Rasgrad",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155276"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/503"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/851"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "FC Porto",
+      "awayTeamName": "Club Brugge",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155275"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/725"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/338"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "FC Copenhagen",
+      "awayTeamName": "Leicester City FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155288"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/755"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "GNK Dinamo Zagreb",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155287"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/523"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "Olympique Lyonnais",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155318"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1105"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/86"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Legia Warszawa",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155267"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/4"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/498"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "Sporting CP",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155257"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/751"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155258"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/3"
+        }
+      },
+      "date": "2016-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "Bayer Leverkusen",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155256"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/751"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/3"
+        }
+      },
+      "date": "2016-11-22T17:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Bayer Leverkusen",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155286"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/109"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155285"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/755"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/523"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "GNK Dinamo Zagreb",
+      "awayTeamName": "Olympique Lyonnais",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155317"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/4"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1105"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "Legia Warszawa",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155255"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/73"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155273"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/725"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/503"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "FC Copenhagen",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155266"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/498"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/86"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Sporting CP",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155274"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/338"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/851"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Leicester City FC",
+      "awayTeamName": "Club Brugge",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155323"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1104"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/5"
+        }
+      },
+      "date": "2016-11-23T17:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "FC Rostov",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155237"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/18"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/65"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Bor. Mönchengladbach",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155238"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/732"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/81"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Celtic FC",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155248"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/78"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/674"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "PSV Eindhoven",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155226"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/842"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Dynamo Kyiv",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155213"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/524"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155225"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/600"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/495"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Besiktas JK",
+      "awayTeamName": "SL Benfica",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155214"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/753"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/729"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Ludogorez Rasgrad",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155322"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/674"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1104"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "PSV Eindhoven",
+      "awayTeamName": "FC Rostov",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155223"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/495"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/113"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "SL Benfica",
+      "awayTeamName": "SSC Napoli",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155211"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/729"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/57"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "FC Basel",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155212"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/524"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/753"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Paris Saint-Germain",
+      "awayTeamName": "Ludogorez Rasgrad",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155224"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/842"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/600"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Dynamo Kyiv",
+      "awayTeamName": "Besiktas JK",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155235"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/18"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "Bor. Mönchengladbach",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155236"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/732"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "Celtic FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155247"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/78"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "Club Atlético de Madrid",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155253"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/3"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/548"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Bayer Leverkusen",
+      "awayTeamName": "AS Monaco FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155254"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/751"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155265"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/4"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "Borussia Dortmund",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155271"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/851"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/725"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Club Brugge",
+      "awayTeamName": "FC Copenhagen",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155272"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/503"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/338"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "FC Porto",
+      "awayTeamName": "Leicester City FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155316"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/1105"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/498"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Legia Warszawa",
+      "awayTeamName": "Sporting CP",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155283"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/755"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "GNK Dinamo Zagreb",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/alpha/fixtures/155284"
+        },
+        "soccerseason": {
+          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/alpha/teams/523"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/alpha/teams/559"
+        }
+      },
+      "date": "2016-12-07T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "Olympique Lyonnais",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": -1,
+        "goalsAwayTeam": -1
+      }
+    }
+  ]
+}
