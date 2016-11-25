@@ -250,7 +250,7 @@
         }
       },
       "date": "2016-09-14T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Bayer Leverkusen",
       "awayTeamName": "CSKA Moscow",
@@ -300,7 +300,7 @@
         }
       },
       "date": "2016-09-14T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Club Brugge",
       "awayTeamName": "Leicester City FC",
@@ -425,7 +425,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "GNK Dinamo Zagreb",
       "awayTeamName": "Juventus Turin",
@@ -450,7 +450,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Sevilla FC",
       "awayTeamName": "Olympique Lyonnais",
@@ -475,7 +475,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "AS Monaco FC",
       "awayTeamName": "Bayer Leverkusen",
@@ -500,7 +500,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Sporting CP",
       "awayTeamName": "Legia Warszawa",
@@ -525,7 +525,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "CSKA Moscow",
       "awayTeamName": "Tottenham Hotspur FC",
@@ -550,7 +550,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Leicester City FC",
       "awayTeamName": "FC Porto",
@@ -575,7 +575,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Borussia Dortmund",
       "awayTeamName": "Real Madrid CF",
@@ -600,7 +600,7 @@
         }
       },
       "date": "2016-09-27T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "FC Copenhagen",
       "awayTeamName": "Club Brugge",
@@ -625,7 +625,7 @@
         }
       },
       "date": "2016-09-28T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "SSC Napoli",
       "awayTeamName": "SL Benfica",
@@ -700,7 +700,7 @@
         }
       },
       "date": "2016-09-28T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Club Atlético de Madrid",
       "awayTeamName": "FC Bayern München",
@@ -725,7 +725,7 @@
         }
       },
       "date": "2016-09-28T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Besiktas JK",
       "awayTeamName": "Dynamo Kyiv",
@@ -750,7 +750,7 @@
         }
       },
       "date": "2016-09-28T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Celtic FC",
       "awayTeamName": "Manchester City FC",
@@ -775,7 +775,7 @@
         }
       },
       "date": "2016-09-28T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "Bor. Mönchengladbach",
       "awayTeamName": "FC Barcelona",
@@ -800,7 +800,7 @@
         }
       },
       "date": "2016-09-28T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 2,
       "homeTeamName": "FC Rostov",
       "awayTeamName": "PSV Eindhoven",
@@ -825,7 +825,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "CSKA Moscow",
       "awayTeamName": "AS Monaco FC",
@@ -850,7 +850,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Leicester City FC",
       "awayTeamName": "FC Copenhagen",
@@ -875,7 +875,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Club Brugge",
       "awayTeamName": "FC Porto",
@@ -900,7 +900,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Olympique Lyonnais",
       "awayTeamName": "Juventus Turin",
@@ -925,7 +925,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "GNK Dinamo Zagreb",
       "awayTeamName": "Sevilla FC",
@@ -950,7 +950,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Real Madrid CF",
       "awayTeamName": "Legia Warszawa",
@@ -975,7 +975,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Sporting CP",
       "awayTeamName": "Borussia Dortmund",
@@ -1000,7 +1000,7 @@
         }
       },
       "date": "2016-10-18T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Bayer Leverkusen",
       "awayTeamName": "Tottenham Hotspur FC",
@@ -1025,7 +1025,7 @@
         }
       },
       "date": "2016-10-19T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "FC Barcelona",
       "awayTeamName": "Manchester City FC",
@@ -1075,7 +1075,7 @@
         }
       },
       "date": "2016-10-19T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "FC Rostov",
       "awayTeamName": "Club Atlético de Madrid",
@@ -1100,7 +1100,7 @@
         }
       },
       "date": "2016-10-19T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Celtic FC",
       "awayTeamName": "Bor. Mönchengladbach",
@@ -1150,7 +1150,7 @@
         }
       },
       "date": "2016-10-19T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "SSC Napoli",
       "awayTeamName": "Besiktas JK",
@@ -1175,7 +1175,7 @@
         }
       },
       "date": "2016-10-19T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "Dynamo Kyiv",
       "awayTeamName": "SL Benfica",
@@ -1200,7 +1200,7 @@
         }
       },
       "date": "2016-10-19T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 3,
       "homeTeamName": "FC Bayern München",
       "awayTeamName": "PSV Eindhoven",
@@ -1225,7 +1225,7 @@
         }
       },
       "date": "2016-11-01T17:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 4,
       "homeTeamName": "Besiktas JK",
       "awayTeamName": "SSC Napoli",
@@ -1250,7 +1250,7 @@
         }
       },
       "date": "2016-11-01T19:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 4,
       "homeTeamName": "Club Atlético de Madrid",
       "awayTeamName": "FC Rostov",
@@ -1275,7 +1275,7 @@
         }
       },
       "date": "2016-11-01T19:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 4,
       "homeTeamName": "SL Benfica",
       "awayTeamName": "Dynamo Kyiv",
@@ -1350,7 +1350,7 @@
         }
       },
       "date": "2016-11-01T19:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 4,
       "homeTeamName": "Manchester City FC",
       "awayTeamName": "FC Barcelona",
@@ -1375,7 +1375,7 @@
         }
       },
       "date": "2016-11-01T19:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 4,
       "homeTeamName": "PSV Eindhoven",
       "awayTeamName": "FC Bayern München",
@@ -1400,7 +1400,7 @@
         }
       },
       "date": "2016-11-01T19:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 4,
       "homeTeamName": "Bor. Mönchengladbach",
       "awayTeamName": "Celtic FC",
@@ -1625,13 +1625,13 @@
         }
       },
       "date": "2016-11-22T17:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "CSKA Moscow",
       "awayTeamName": "Bayer Leverkusen",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -1650,13 +1650,13 @@
         }
       },
       "date": "2016-11-22T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Sevilla FC",
       "awayTeamName": "Juventus Turin",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -1675,13 +1675,13 @@
         }
       },
       "date": "2016-11-22T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "GNK Dinamo Zagreb",
       "awayTeamName": "Olympique Lyonnais",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -1700,13 +1700,13 @@
         }
       },
       "date": "2016-11-22T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Borussia Dortmund",
       "awayTeamName": "Legia Warszawa",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 8,
+        "goalsAwayTeam": 4
       }
     },
     {
@@ -1725,13 +1725,13 @@
         }
       },
       "date": "2016-11-22T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "AS Monaco FC",
       "awayTeamName": "Tottenham Hotspur FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -1750,13 +1750,13 @@
         }
       },
       "date": "2016-11-22T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "FC Copenhagen",
       "awayTeamName": "FC Porto",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -1775,13 +1775,13 @@
         }
       },
       "date": "2016-11-22T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Sporting CP",
       "awayTeamName": "Real Madrid CF",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -1800,13 +1800,13 @@
         }
       },
       "date": "2016-11-22T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Leicester City FC",
       "awayTeamName": "Club Brugge",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -1825,13 +1825,13 @@
         }
       },
       "date": "2016-11-23T17:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "FC Rostov",
       "awayTeamName": "FC Bayern München",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -1850,13 +1850,13 @@
         }
       },
       "date": "2016-11-23T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Bor. Mönchengladbach",
       "awayTeamName": "Manchester City FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -1875,13 +1875,13 @@
         }
       },
       "date": "2016-11-23T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Celtic FC",
       "awayTeamName": "FC Barcelona",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -1900,13 +1900,13 @@
         }
       },
       "date": "2016-11-23T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Club Atlético de Madrid",
       "awayTeamName": "PSV Eindhoven",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -1925,13 +1925,13 @@
         }
       },
       "date": "2016-11-23T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "SSC Napoli",
       "awayTeamName": "Dynamo Kyiv",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -1950,13 +1950,13 @@
         }
       },
       "date": "2016-11-23T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Arsenal FC",
       "awayTeamName": "Paris Saint-Germain",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -1975,13 +1975,13 @@
         }
       },
       "date": "2016-11-23T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Besiktas JK",
       "awayTeamName": "SL Benfica",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
       }
     },
     {
@@ -2000,13 +2000,13 @@
         }
       },
       "date": "2016-11-23T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "homeTeamName": "Ludogorez Rasgrad",
       "awayTeamName": "FC Basel",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
       }
     },
     {
