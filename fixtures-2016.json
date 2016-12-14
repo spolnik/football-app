@@ -2025,13 +2025,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "PSV Eindhoven",
       "awayTeamName": "FC Rostov",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2050,13 +2050,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "SL Benfica",
       "awayTeamName": "SSC Napoli",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -2075,13 +2075,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "FC Basel",
       "awayTeamName": "Arsenal FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
       }
     },
     {
@@ -2100,13 +2100,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Paris Saint-Germain",
       "awayTeamName": "Ludogorez Rasgrad",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -2125,13 +2125,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Dynamo Kyiv",
       "awayTeamName": "Besiktas JK",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 6,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2150,13 +2150,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "FC Barcelona",
       "awayTeamName": "Bor. Mönchengladbach",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2175,13 +2175,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Manchester City FC",
       "awayTeamName": "Celtic FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -2200,13 +2200,13 @@
         }
       },
       "date": "2016-12-06T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "FC Bayern München",
       "awayTeamName": "Club Atlético de Madrid",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2225,13 +2225,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Bayer Leverkusen",
       "awayTeamName": "AS Monaco FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2250,13 +2250,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Tottenham Hotspur FC",
       "awayTeamName": "CSKA Moscow",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
       }
     },
     {
@@ -2275,13 +2275,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Real Madrid CF",
       "awayTeamName": "Borussia Dortmund",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -2300,13 +2300,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Club Brugge",
       "awayTeamName": "FC Copenhagen",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
       }
     },
     {
@@ -2325,13 +2325,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "FC Porto",
       "awayTeamName": "Leicester City FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2350,13 +2350,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Legia Warszawa",
       "awayTeamName": "Sporting CP",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2375,13 +2375,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Juventus Turin",
       "awayTeamName": "GNK Dinamo Zagreb",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
       }
     },
     {
@@ -2400,13 +2400,13 @@
         }
       },
       "date": "2016-12-07T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "homeTeamName": "Olympique Lyonnais",
       "awayTeamName": "Sevilla FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
       }
     }
   ]
