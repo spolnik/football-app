@@ -1,27 +1,27 @@
 {
   "_links": {
     "self": {
-      "href": "http://api.football-data.org/alpha/soccerseasons/440/fixtures"
+      "href": "http://api.football-data.org/v1/competitions/440/fixtures"
     },
-    "soccerseason": {
-      "href": "http://api.football-data.org/alpha/soccerseasons/440"
+    "competition": {
+      "href": "http://api.football-data.org/v1/competitions/440"
     }
   },
-  "count": 124,
+  "count": 125,
   "fixtures": [
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155233"
+          "href": "http://api.football-data.org/v1/fixtures/155233"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/600"
+          "href": "http://api.football-data.org/v1/teams/600"
         }
       },
       "date": "2016-09-13T18:45:00Z",
@@ -32,21 +32,22 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155222"
+          "href": "http://api.football-data.org/v1/fixtures/155222"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         }
       },
       "date": "2016-09-13T18:45:00Z",
@@ -57,21 +58,22 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155245"
+          "href": "http://api.football-data.org/v1/fixtures/155245"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/732"
+          "href": "http://api.football-data.org/v1/teams/732"
         }
       },
       "date": "2016-09-13T18:45:00Z",
@@ -82,21 +84,22 @@
       "result": {
         "goalsHomeTeam": 7,
         "goalsAwayTeam": 0
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155234"
+          "href": "http://api.football-data.org/v1/fixtures/155234"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/842"
+          "href": "http://api.football-data.org/v1/teams/842"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         }
       },
       "date": "2016-09-13T18:45:00Z",
@@ -107,21 +110,22 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155252"
+          "href": "http://api.football-data.org/v1/fixtures/155252"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/674"
+          "href": "http://api.football-data.org/v1/teams/674"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         }
       },
       "date": "2016-09-13T18:45:00Z",
@@ -132,21 +136,22 @@
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155327"
+          "href": "http://api.football-data.org/v1/fixtures/155327"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1104"
+          "href": "http://api.football-data.org/v1/teams/1104"
         }
       },
       "date": "2016-09-13T18:45:00Z",
@@ -157,21 +162,22 @@
       "result": {
         "goalsHomeTeam": 5,
         "goalsAwayTeam": 0
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155221"
+          "href": "http://api.football-data.org/v1/fixtures/155221"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/729"
+          "href": "http://api.football-data.org/v1/teams/729"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/753"
+          "href": "http://api.football-data.org/v1/teams/753"
         }
       },
       "date": "2016-09-13T18:45:00Z",
@@ -182,21 +188,22 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155263"
+          "href": "http://api.football-data.org/v1/fixtures/155263"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/751"
+          "href": "http://api.football-data.org/v1/teams/751"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -206,22 +213,31 @@
       "awayTeamName": "CSKA Moscow",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 1.65,
+        "draw": 3.9,
+        "awayWin": 5.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155264"
+          "href": "http://api.football-data.org/v1/fixtures/155264"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/73"
+          "href": "http://api.football-data.org/v1/teams/73"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -232,46 +248,60 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
+      },
+      "odds": {
+        "homeWin": 1.75,
+        "draw": 3.6,
+        "awayWin": 4.6
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155293"
+          "href": "http://api.football-data.org/v1/fixtures/155293"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         }
       },
       "date": "2016-09-14T18:45:00Z",
-      "status": "FT",
+      "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Juventus Turin",
       "awayTeamName": "Sevilla FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.5,
+        "draw": 4.0,
+        "awayWin": 6.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155321"
+          "href": "http://api.football-data.org/v1/fixtures/155321"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1105"
+          "href": "http://api.football-data.org/v1/teams/1105"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -281,22 +311,31 @@
       "awayTeamName": "Borussia Dortmund",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 6
+        "goalsAwayTeam": 6,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 3
+        }
+      },
+      "odds": {
+        "homeWin": 10.0,
+        "draw": 5.0,
+        "awayWin": 1.33
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155270"
+          "href": "http://api.football-data.org/v1/fixtures/155270"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/498"
+          "href": "http://api.football-data.org/v1/teams/498"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -307,21 +346,26 @@
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
+      },
+      "odds": {
+        "homeWin": 1.18,
+        "draw": 7.0,
+        "awayWin": 15.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155246"
+          "href": "http://api.football-data.org/v1/fixtures/155246"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/18"
+          "href": "http://api.football-data.org/v1/teams/18"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -331,22 +375,31 @@
       "awayTeamName": "Bor. Mönchengladbach",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.36,
+        "draw": 5.5,
+        "awayWin": 9.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155281"
+          "href": "http://api.football-data.org/v1/fixtures/155281"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/851"
+          "href": "http://api.football-data.org/v1/teams/851"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -356,22 +409,31 @@
       "awayTeamName": "Leicester City FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 3
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 3.0,
+        "draw": 3.25,
+        "awayWin": 2.45
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155282"
+          "href": "http://api.football-data.org/v1/fixtures/155282"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/725"
+          "href": "http://api.football-data.org/v1/teams/725"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -381,22 +443,31 @@
       "awayTeamName": "FC Copenhagen",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.55,
+        "draw": 4.0,
+        "awayWin": 6.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155294"
+          "href": "http://api.football-data.org/v1/fixtures/155294"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/523"
+          "href": "http://api.football-data.org/v1/teams/523"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/755"
+          "href": "http://api.football-data.org/v1/teams/755"
         }
       },
       "date": "2016-09-14T18:45:00Z",
@@ -406,22 +477,31 @@
       "awayTeamName": "GNK Dinamo Zagreb",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.61,
+        "draw": 3.9,
+        "awayWin": 5.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155320"
+          "href": "http://api.football-data.org/v1/fixtures/155320"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/498"
+          "href": "http://api.football-data.org/v1/teams/498"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1105"
+          "href": "http://api.football-data.org/v1/teams/1105"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -431,22 +511,27 @@
       "awayTeamName": "Legia Warszawa",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155291"
+          "href": "http://api.football-data.org/v1/fixtures/155291"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/755"
+          "href": "http://api.football-data.org/v1/teams/755"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -456,22 +541,27 @@
       "awayTeamName": "Juventus Turin",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 4
-      }
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155269"
+          "href": "http://api.football-data.org/v1/fixtures/155269"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -481,22 +571,27 @@
       "awayTeamName": "Real Madrid CF",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155292"
+          "href": "http://api.football-data.org/v1/fixtures/155292"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/523"
+          "href": "http://api.football-data.org/v1/teams/523"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -506,22 +601,27 @@
       "awayTeamName": "Olympique Lyonnais",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155279"
+          "href": "http://api.football-data.org/v1/fixtures/155279"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/725"
+          "href": "http://api.football-data.org/v1/teams/725"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/851"
+          "href": "http://api.football-data.org/v1/teams/851"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -531,22 +631,27 @@
       "awayTeamName": "Club Brugge",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155262"
+          "href": "http://api.football-data.org/v1/fixtures/155262"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -556,22 +661,27 @@
       "awayTeamName": "Bayer Leverkusen",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155261"
+          "href": "http://api.football-data.org/v1/fixtures/155261"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/751"
+          "href": "http://api.football-data.org/v1/teams/751"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/73"
+          "href": "http://api.football-data.org/v1/teams/73"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -581,22 +691,27 @@
       "awayTeamName": "Tottenham Hotspur FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155280"
+          "href": "http://api.football-data.org/v1/fixtures/155280"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         }
       },
       "date": "2016-09-27T18:45:00Z",
@@ -606,22 +721,27 @@
       "awayTeamName": "FC Porto",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155243"
+          "href": "http://api.football-data.org/v1/fixtures/155243"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/18"
+          "href": "http://api.football-data.org/v1/teams/18"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -631,22 +751,27 @@
       "awayTeamName": "FC Barcelona",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155220"
+          "href": "http://api.football-data.org/v1/fixtures/155220"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/753"
+          "href": "http://api.football-data.org/v1/teams/753"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -657,21 +782,22 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155232"
+          "href": "http://api.football-data.org/v1/fixtures/155232"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -681,22 +807,27 @@
       "awayTeamName": "SL Benfica",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155231"
+          "href": "http://api.football-data.org/v1/fixtures/155231"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/600"
+          "href": "http://api.football-data.org/v1/teams/600"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/842"
+          "href": "http://api.football-data.org/v1/teams/842"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -706,22 +837,27 @@
       "awayTeamName": "Dynamo Kyiv",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155251"
+          "href": "http://api.football-data.org/v1/fixtures/155251"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -731,22 +867,27 @@
       "awayTeamName": "FC Bayern München",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155219"
+          "href": "http://api.football-data.org/v1/fixtures/155219"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/729"
+          "href": "http://api.football-data.org/v1/teams/729"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -757,21 +898,22 @@
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155326"
+          "href": "http://api.football-data.org/v1/fixtures/155326"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1104"
+          "href": "http://api.football-data.org/v1/teams/1104"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/674"
+          "href": "http://api.football-data.org/v1/teams/674"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -781,22 +923,27 @@
       "awayTeamName": "PSV Eindhoven",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155244"
+          "href": "http://api.football-data.org/v1/fixtures/155244"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/732"
+          "href": "http://api.football-data.org/v1/teams/732"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         }
       },
       "date": "2016-09-28T18:45:00Z",
@@ -806,22 +953,27 @@
       "awayTeamName": "Manchester City FC",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 3
-      }
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155260"
+          "href": "http://api.football-data.org/v1/fixtures/155260"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/751"
+          "href": "http://api.football-data.org/v1/teams/751"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -831,22 +983,31 @@
       "awayTeamName": "AS Monaco FC",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.5,
+        "draw": 3.2,
+        "awayWin": 3.1
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155259"
+          "href": "http://api.football-data.org/v1/fixtures/155259"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/73"
+          "href": "http://api.football-data.org/v1/teams/73"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -856,22 +1017,31 @@
       "awayTeamName": "Tottenham Hotspur FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.15,
+        "draw": 3.5,
+        "awayWin": 3.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155268"
+          "href": "http://api.football-data.org/v1/fixtures/155268"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/498"
+          "href": "http://api.football-data.org/v1/teams/498"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -881,22 +1051,31 @@
       "awayTeamName": "Borussia Dortmund",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 3.3,
+        "draw": 3.6,
+        "awayWin": 2.2
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155278"
+          "href": "http://api.football-data.org/v1/fixtures/155278"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/725"
+          "href": "http://api.football-data.org/v1/teams/725"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -906,22 +1085,31 @@
       "awayTeamName": "FC Copenhagen",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.05,
+        "draw": 3.25,
+        "awayWin": 4.2
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155277"
+          "href": "http://api.football-data.org/v1/fixtures/155277"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/851"
+          "href": "http://api.football-data.org/v1/teams/851"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -931,22 +1119,31 @@
       "awayTeamName": "FC Porto",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 5.5,
+        "draw": 3.75,
+        "awayWin": 1.75
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155289"
+          "href": "http://api.football-data.org/v1/fixtures/155289"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/755"
+          "href": "http://api.football-data.org/v1/teams/755"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -956,22 +1153,31 @@
       "awayTeamName": "Sevilla FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 6.0,
+        "draw": 4.0,
+        "awayWin": 1.61
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155319"
+          "href": "http://api.football-data.org/v1/fixtures/155319"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1105"
+          "href": "http://api.football-data.org/v1/teams/1105"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -981,22 +1187,31 @@
       "awayTeamName": "Legia Warszawa",
       "result": {
         "goalsHomeTeam": 5,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 1.05,
+        "draw": 26.0,
+        "awayWin": 67.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155290"
+          "href": "http://api.football-data.org/v1/fixtures/155290"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/523"
+          "href": "http://api.football-data.org/v1/teams/523"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         }
       },
       "date": "2016-10-18T18:45:00Z",
@@ -1006,22 +1221,31 @@
       "awayTeamName": "Juventus Turin",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 5.5,
+        "draw": 3.7,
+        "awayWin": 1.72
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155218"
+          "href": "http://api.football-data.org/v1/fixtures/155218"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/729"
+          "href": "http://api.football-data.org/v1/teams/729"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1032,21 +1256,26 @@
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
+      },
+      "odds": {
+        "homeWin": 1.22,
+        "draw": 7.0,
+        "awayWin": 17.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155241"
+          "href": "http://api.football-data.org/v1/fixtures/155241"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1056,22 +1285,31 @@
       "awayTeamName": "Manchester City FC",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.5,
+        "draw": 5.0,
+        "awayWin": 6.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155325"
+          "href": "http://api.football-data.org/v1/fixtures/155325"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1104"
+          "href": "http://api.football-data.org/v1/teams/1104"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1081,22 +1319,31 @@
       "awayTeamName": "Club Atlético de Madrid",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 12.0,
+        "draw": 5.0,
+        "awayWin": 1.36
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155229"
+          "href": "http://api.football-data.org/v1/fixtures/155229"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/842"
+          "href": "http://api.football-data.org/v1/teams/842"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1106,22 +1353,27 @@
       "awayTeamName": "SL Benfica",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155230"
+          "href": "http://api.football-data.org/v1/fixtures/155230"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/600"
+          "href": "http://api.football-data.org/v1/teams/600"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1131,22 +1383,31 @@
       "awayTeamName": "Besiktas JK",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 3
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 1.4,
+        "draw": 5.0,
+        "awayWin": 9.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155217"
+          "href": "http://api.football-data.org/v1/fixtures/155217"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/753"
+          "href": "http://api.football-data.org/v1/teams/753"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1157,21 +1418,26 @@
       "result": {
         "goalsHomeTeam": 6,
         "goalsAwayTeam": 0
+      },
+      "odds": {
+        "homeWin": 1.15,
+        "draw": 9.0,
+        "awayWin": 21.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155250"
+          "href": "http://api.football-data.org/v1/fixtures/155250"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/674"
+          "href": "http://api.football-data.org/v1/teams/674"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1181,22 +1447,31 @@
       "awayTeamName": "PSV Eindhoven",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 1.2,
+        "draw": 8.0,
+        "awayWin": 15.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155242"
+          "href": "http://api.football-data.org/v1/fixtures/155242"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/732"
+          "href": "http://api.football-data.org/v1/teams/732"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/18"
+          "href": "http://api.football-data.org/v1/teams/18"
         }
       },
       "date": "2016-10-19T18:45:00Z",
@@ -1206,22 +1481,31 @@
       "awayTeamName": "Bor. Mönchengladbach",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.1,
+        "draw": 3.7,
+        "awayWin": 2.3
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155228"
+          "href": "http://api.football-data.org/v1/fixtures/155228"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/600"
+          "href": "http://api.football-data.org/v1/teams/600"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         }
       },
       "date": "2016-11-01T17:45:00Z",
@@ -1231,22 +1515,31 @@
       "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.7,
+        "draw": 3.5,
+        "awayWin": 2.1
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155240"
+          "href": "http://api.football-data.org/v1/fixtures/155240"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         }
       },
       "date": "2016-11-01T19:45:00Z",
@@ -1256,22 +1549,31 @@
       "awayTeamName": "FC Barcelona",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 2.87,
+        "draw": 3.6,
+        "awayWin": 2.45
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155215"
+          "href": "http://api.football-data.org/v1/fixtures/155215"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/729"
+          "href": "http://api.football-data.org/v1/teams/729"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         }
       },
       "date": "2016-11-01T19:45:00Z",
@@ -1282,21 +1584,26 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
+      },
+      "odds": {
+        "homeWin": 6.0,
+        "draw": 4.33,
+        "awayWin": 1.6
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155227"
+          "href": "http://api.football-data.org/v1/fixtures/155227"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/842"
+          "href": "http://api.football-data.org/v1/teams/842"
         }
       },
       "date": "2016-11-01T19:45:00Z",
@@ -1306,22 +1613,31 @@
       "awayTeamName": "Dynamo Kyiv",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.65,
+        "draw": 3.7,
+        "awayWin": 6.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155216"
+          "href": "http://api.football-data.org/v1/fixtures/155216"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/753"
+          "href": "http://api.football-data.org/v1/teams/753"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         }
       },
       "date": "2016-11-01T19:45:00Z",
@@ -1332,21 +1648,26 @@
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
+      },
+      "odds": {
+        "homeWin": 10.0,
+        "draw": 5.5,
+        "awayWin": 1.35
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155239"
+          "href": "http://api.football-data.org/v1/fixtures/155239"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/18"
+          "href": "http://api.football-data.org/v1/teams/18"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/732"
+          "href": "http://api.football-data.org/v1/teams/732"
         }
       },
       "date": "2016-11-01T19:45:00Z",
@@ -1356,22 +1677,31 @@
       "awayTeamName": "Celtic FC",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.44,
+        "draw": 4.6,
+        "awayWin": 8.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155249"
+          "href": "http://api.football-data.org/v1/fixtures/155249"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/674"
+          "href": "http://api.football-data.org/v1/teams/674"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         }
       },
       "date": "2016-11-01T19:45:00Z",
@@ -1381,22 +1711,31 @@
       "awayTeamName": "FC Bayern München",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 8.0,
+        "draw": 5.0,
+        "awayWin": 1.4
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155324"
+          "href": "http://api.football-data.org/v1/fixtures/155324"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1104"
+          "href": "http://api.football-data.org/v1/teams/1104"
         }
       },
       "date": "2016-11-01T19:45:00Z",
@@ -1406,22 +1745,31 @@
       "awayTeamName": "FC Rostov",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 1.12,
+        "draw": 11.0,
+        "awayWin": 26.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155275"
+          "href": "http://api.football-data.org/v1/fixtures/155275"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/725"
+          "href": "http://api.football-data.org/v1/teams/725"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1431,22 +1779,31 @@
       "awayTeamName": "Leicester City FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.25,
+        "draw": 3.3,
+        "awayWin": 3.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155276"
+          "href": "http://api.football-data.org/v1/fixtures/155276"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/851"
+          "href": "http://api.football-data.org/v1/teams/851"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1456,22 +1813,31 @@
       "awayTeamName": "Club Brugge",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.3,
+        "draw": 6.0,
+        "awayWin": 12.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155258"
+          "href": "http://api.football-data.org/v1/fixtures/155258"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/73"
+          "href": "http://api.football-data.org/v1/teams/73"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1481,22 +1847,31 @@
       "awayTeamName": "Bayer Leverkusen",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.0,
+        "draw": 3.6,
+        "awayWin": 3.9
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155318"
+          "href": "http://api.football-data.org/v1/fixtures/155318"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1105"
+          "href": "http://api.football-data.org/v1/teams/1105"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1506,22 +1881,31 @@
       "awayTeamName": "Real Madrid CF",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 3
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 26.0,
+        "draw": 12.0,
+        "awayWin": 1.12
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155287"
+          "href": "http://api.football-data.org/v1/fixtures/155287"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/523"
+          "href": "http://api.football-data.org/v1/teams/523"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1531,22 +1915,31 @@
       "awayTeamName": "Olympique Lyonnais",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.3,
+        "draw": 5.5,
+        "awayWin": 12.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155267"
+          "href": "http://api.football-data.org/v1/fixtures/155267"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/498"
+          "href": "http://api.football-data.org/v1/teams/498"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1556,22 +1949,31 @@
       "awayTeamName": "Sporting CP",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.44,
+        "draw": 4.8,
+        "awayWin": 7.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155257"
+          "href": "http://api.football-data.org/v1/fixtures/155257"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/751"
+          "href": "http://api.football-data.org/v1/teams/751"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1581,22 +1983,31 @@
       "awayTeamName": "CSKA Moscow",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.75,
+        "draw": 3.7,
+        "awayWin": 5.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155288"
+          "href": "http://api.football-data.org/v1/fixtures/155288"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/755"
+          "href": "http://api.football-data.org/v1/teams/755"
         }
       },
       "date": "2016-11-02T19:45:00Z",
@@ -1606,22 +2017,31 @@
       "awayTeamName": "GNK Dinamo Zagreb",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.22,
+        "draw": 7.0,
+        "awayWin": 17.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155256"
+          "href": "http://api.football-data.org/v1/fixtures/155256"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/751"
+          "href": "http://api.football-data.org/v1/teams/751"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         }
       },
       "date": "2016-11-22T17:00:00Z",
@@ -1631,22 +2051,27 @@
       "awayTeamName": "Bayer Leverkusen",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155266"
+          "href": "http://api.football-data.org/v1/fixtures/155266"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/498"
+          "href": "http://api.football-data.org/v1/teams/498"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         }
       },
       "date": "2016-11-22T19:45:00Z",
@@ -1656,22 +2081,27 @@
       "awayTeamName": "Real Madrid CF",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155286"
+          "href": "http://api.football-data.org/v1/fixtures/155286"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         }
       },
       "date": "2016-11-22T19:45:00Z",
@@ -1681,22 +2111,27 @@
       "awayTeamName": "Juventus Turin",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 3
-      }
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155274"
+          "href": "http://api.football-data.org/v1/fixtures/155274"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/851"
+          "href": "http://api.football-data.org/v1/teams/851"
         }
       },
       "date": "2016-11-22T20:45:00Z",
@@ -1706,22 +2141,27 @@
       "awayTeamName": "Club Brugge",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155273"
+          "href": "http://api.football-data.org/v1/fixtures/155273"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/725"
+          "href": "http://api.football-data.org/v1/teams/725"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         }
       },
       "date": "2016-11-22T20:45:00Z",
@@ -1731,22 +2171,27 @@
       "awayTeamName": "FC Porto",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155317"
+          "href": "http://api.football-data.org/v1/fixtures/155317"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1105"
+          "href": "http://api.football-data.org/v1/teams/1105"
         }
       },
       "date": "2016-11-22T20:45:00Z",
@@ -1756,22 +2201,27 @@
       "awayTeamName": "Legia Warszawa",
       "result": {
         "goalsHomeTeam": 8,
-        "goalsAwayTeam": 4
-      }
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 5,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155255"
+          "href": "http://api.football-data.org/v1/fixtures/155255"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/73"
+          "href": "http://api.football-data.org/v1/teams/73"
         }
       },
       "date": "2016-11-22T20:45:00Z",
@@ -1781,22 +2231,27 @@
       "awayTeamName": "Tottenham Hotspur FC",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155285"
+          "href": "http://api.football-data.org/v1/fixtures/155285"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/755"
+          "href": "http://api.football-data.org/v1/teams/755"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/523"
+          "href": "http://api.football-data.org/v1/teams/523"
         }
       },
       "date": "2016-11-22T20:45:00Z",
@@ -1806,22 +2261,27 @@
       "awayTeamName": "Olympique Lyonnais",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155323"
+          "href": "http://api.football-data.org/v1/fixtures/155323"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1104"
+          "href": "http://api.football-data.org/v1/teams/1104"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         }
       },
       "date": "2016-11-23T18:00:00Z",
@@ -1831,22 +2291,27 @@
       "awayTeamName": "FC Bayern München",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155225"
+          "href": "http://api.football-data.org/v1/fixtures/155225"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/600"
+          "href": "http://api.football-data.org/v1/teams/600"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         }
       },
       "date": "2016-11-23T18:45:00Z",
@@ -1856,22 +2321,27 @@
       "awayTeamName": "SL Benfica",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 3
-      }
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 3
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155214"
+          "href": "http://api.football-data.org/v1/fixtures/155214"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/753"
+          "href": "http://api.football-data.org/v1/teams/753"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/729"
+          "href": "http://api.football-data.org/v1/teams/729"
         }
       },
       "date": "2016-11-23T19:45:00Z",
@@ -1882,21 +2352,22 @@
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155226"
+          "href": "http://api.football-data.org/v1/fixtures/155226"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/842"
+          "href": "http://api.football-data.org/v1/teams/842"
         }
       },
       "date": "2016-11-23T20:45:00Z",
@@ -1906,22 +2377,27 @@
       "awayTeamName": "Dynamo Kyiv",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155213"
+          "href": "http://api.football-data.org/v1/fixtures/155213"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         }
       },
       "date": "2016-11-23T20:45:00Z",
@@ -1931,22 +2407,27 @@
       "awayTeamName": "Paris Saint-Germain",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155238"
+          "href": "http://api.football-data.org/v1/fixtures/155238"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/732"
+          "href": "http://api.football-data.org/v1/teams/732"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         }
       },
       "date": "2016-11-23T20:45:00Z",
@@ -1956,22 +2437,27 @@
       "awayTeamName": "FC Barcelona",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155237"
+          "href": "http://api.football-data.org/v1/fixtures/155237"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/18"
+          "href": "http://api.football-data.org/v1/teams/18"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         }
       },
       "date": "2016-11-23T20:45:00Z",
@@ -1981,22 +2467,27 @@
       "awayTeamName": "Manchester City FC",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155248"
+          "href": "http://api.football-data.org/v1/fixtures/155248"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/674"
+          "href": "http://api.football-data.org/v1/teams/674"
         }
       },
       "date": "2016-11-23T20:45:00Z",
@@ -2006,22 +2497,27 @@
       "awayTeamName": "PSV Eindhoven",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155211"
+          "href": "http://api.football-data.org/v1/fixtures/155211"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/729"
+          "href": "http://api.football-data.org/v1/teams/729"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         }
       },
       "date": "2016-12-06T19:45:00Z",
@@ -2032,21 +2528,22 @@
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 4
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155212"
+          "href": "http://api.football-data.org/v1/fixtures/155212"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/753"
+          "href": "http://api.football-data.org/v1/teams/753"
         }
       },
       "date": "2016-12-06T19:45:00Z",
@@ -2057,21 +2554,22 @@
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
-      }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155236"
+          "href": "http://api.football-data.org/v1/fixtures/155236"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/732"
+          "href": "http://api.football-data.org/v1/teams/732"
         }
       },
       "date": "2016-12-06T20:45:00Z",
@@ -2081,22 +2579,27 @@
       "awayTeamName": "Celtic FC",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      }
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155322"
+          "href": "http://api.football-data.org/v1/fixtures/155322"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/674"
+          "href": "http://api.football-data.org/v1/teams/674"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1104"
+          "href": "http://api.football-data.org/v1/teams/1104"
         }
       },
       "date": "2016-12-06T20:45:00Z",
@@ -2106,22 +2609,27 @@
       "awayTeamName": "FC Rostov",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155235"
+          "href": "http://api.football-data.org/v1/fixtures/155235"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/18"
+          "href": "http://api.football-data.org/v1/teams/18"
         }
       },
       "date": "2016-12-06T20:45:00Z",
@@ -2131,22 +2639,27 @@
       "awayTeamName": "Bor. Mönchengladbach",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155224"
+          "href": "http://api.football-data.org/v1/fixtures/155224"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/842"
+          "href": "http://api.football-data.org/v1/teams/842"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/600"
+          "href": "http://api.football-data.org/v1/teams/600"
         }
       },
       "date": "2016-12-06T20:45:00Z",
@@ -2156,22 +2669,27 @@
       "awayTeamName": "Besiktas JK",
       "result": {
         "goalsHomeTeam": 6,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 4,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155223"
+          "href": "http://api.football-data.org/v1/fixtures/155223"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         }
       },
       "date": "2016-12-06T20:45:00Z",
@@ -2181,22 +2699,27 @@
       "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      }
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155247"
+          "href": "http://api.football-data.org/v1/fixtures/155247"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         }
       },
       "date": "2016-12-06T20:45:00Z",
@@ -2206,22 +2729,27 @@
       "awayTeamName": "Club Atlético de Madrid",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      }
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155284"
+          "href": "http://api.football-data.org/v1/fixtures/155284"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/523"
+          "href": "http://api.football-data.org/v1/teams/523"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2231,22 +2759,31 @@
       "awayTeamName": "Sevilla FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.1,
+        "draw": 3.7,
+        "awayWin": 3.7
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155283"
+          "href": "http://api.football-data.org/v1/fixtures/155283"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/755"
+          "href": "http://api.football-data.org/v1/teams/755"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2256,22 +2793,31 @@
       "awayTeamName": "GNK Dinamo Zagreb",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.12,
+        "draw": 10.0,
+        "awayWin": 26.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155272"
+          "href": "http://api.football-data.org/v1/fixtures/155272"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2281,22 +2827,31 @@
       "awayTeamName": "Leicester City FC",
       "result": {
         "goalsHomeTeam": 5,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.33,
+        "draw": 5.5,
+        "awayWin": 11.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155271"
+          "href": "http://api.football-data.org/v1/fixtures/155271"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/851"
+          "href": "http://api.football-data.org/v1/teams/851"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/725"
+          "href": "http://api.football-data.org/v1/teams/725"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2306,22 +2861,31 @@
       "awayTeamName": "FC Copenhagen",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 3.9,
+        "draw": 3.5,
+        "awayWin": 2.1
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155265"
+          "href": "http://api.football-data.org/v1/fixtures/155265"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2331,22 +2895,31 @@
       "awayTeamName": "Borussia Dortmund",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.85,
+        "draw": 4.0,
+        "awayWin": 4.33
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155254"
+          "href": "http://api.football-data.org/v1/fixtures/155254"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/73"
+          "href": "http://api.football-data.org/v1/teams/73"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/751"
+          "href": "http://api.football-data.org/v1/teams/751"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2356,22 +2929,31 @@
       "awayTeamName": "CSKA Moscow",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 1.53,
+        "draw": 4.5,
+        "awayWin": 7.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155253"
+          "href": "http://api.football-data.org/v1/fixtures/155253"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2381,22 +2963,31 @@
       "awayTeamName": "AS Monaco FC",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.72,
+        "draw": 4.2,
+        "awayWin": 5.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155316"
+          "href": "http://api.football-data.org/v1/fixtures/155316"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/1105"
+          "href": "http://api.football-data.org/v1/teams/1105"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/498"
+          "href": "http://api.football-data.org/v1/teams/498"
         }
       },
       "date": "2016-12-07T20:45:00Z",
@@ -2406,22 +2997,31 @@
       "awayTeamName": "Sporting CP",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 4.5,
+        "draw": 3.8,
+        "awayWin": 1.85
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155345"
+          "href": "http://api.football-data.org/v1/fixtures/155345"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         }
       },
       "date": "2017-02-14T20:45:00Z",
@@ -2431,22 +3031,31 @@
       "awayTeamName": "FC Barcelona",
       "result": {
         "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.5,
+        "draw": 3.5,
+        "awayWin": 2.2
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155344"
+          "href": "http://api.football-data.org/v1/fixtures/155344"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         }
       },
       "date": "2017-02-14T20:45:00Z",
@@ -2456,22 +3065,31 @@
       "awayTeamName": "Borussia Dortmund",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.3,
+        "draw": 3.2,
+        "awayWin": 2.4
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155343"
+          "href": "http://api.football-data.org/v1/fixtures/155343"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         }
       },
       "date": "2017-02-15T20:45:00Z",
@@ -2481,22 +3099,31 @@
       "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 1.6,
+        "draw": 4.5,
+        "awayWin": 5.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155342"
+          "href": "http://api.football-data.org/v1/fixtures/155342"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         }
       },
       "date": "2017-02-15T20:45:00Z",
@@ -2506,22 +3133,31 @@
       "awayTeamName": "Arsenal FC",
       "result": {
         "goalsHomeTeam": 5,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 1.5,
+        "draw": 4.4,
+        "awayWin": 7.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155341"
+          "href": "http://api.football-data.org/v1/fixtures/155341"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         }
       },
       "date": "2017-02-21T20:45:00Z",
@@ -2531,22 +3167,31 @@
       "awayTeamName": "AS Monaco FC",
       "result": {
         "goalsHomeTeam": 5,
-        "goalsAwayTeam": 3
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 1.6,
+        "draw": 4.2,
+        "awayWin": 5.8
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155340"
+          "href": "http://api.football-data.org/v1/fixtures/155340"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         }
       },
       "date": "2017-02-21T20:45:00Z",
@@ -2556,22 +3201,31 @@
       "awayTeamName": "Club Atlético de Madrid",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 4
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 3.5,
+        "draw": 3.3,
+        "awayWin": 2.2
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155339"
+          "href": "http://api.football-data.org/v1/fixtures/155339"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         }
       },
       "date": "2017-02-22T20:45:00Z",
@@ -2581,22 +3235,31 @@
       "awayTeamName": "Juventus Turin",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.5,
+        "draw": 3.1,
+        "awayWin": 2.3
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155308"
+          "href": "http://api.football-data.org/v1/fixtures/155308"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         }
       },
       "date": "2017-02-22T20:45:00Z",
@@ -2606,22 +3269,31 @@
       "awayTeamName": "Leicester City FC",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.44,
+        "draw": 4.33,
+        "awayWin": 8.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155337"
+          "href": "http://api.football-data.org/v1/fixtures/155337"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         }
       },
       "date": "2017-03-07T20:45:00Z",
@@ -2631,22 +3303,31 @@
       "awayTeamName": "FC Bayern München",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 5
+        "goalsAwayTeam": 5,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.9,
+        "draw": 4.2,
+        "awayWin": 1.95
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155338"
+          "href": "http://api.football-data.org/v1/fixtures/155338"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         }
       },
       "date": "2017-03-07T20:45:00Z",
@@ -2656,47 +3337,31 @@
       "awayTeamName": "Real Madrid CF",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 3
-      }
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155336"
-        },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
         }
       },
-      "date": "2017-03-08T20:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Borussia Dortmund",
-      "awayTeamName": "SL Benfica",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
+      "odds": {
+        "homeWin": 3.0,
+        "draw": 3.8,
+        "awayWin": 2.37
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155335"
+          "href": "http://api.football-data.org/v1/fixtures/155335"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         }
       },
       "date": "2017-03-08T20:45:00Z",
@@ -2706,47 +3371,65 @@
       "awayTeamName": "Paris Saint-Germain",
       "result": {
         "goalsHomeTeam": 6,
-        "goalsAwayTeam": 1
-      }
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155299"
-        },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
         }
       },
-      "date": "2017-03-14T20:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Leicester City FC",
-      "awayTeamName": "Sevilla FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
+      "odds": {
+        "homeWin": 1.4,
+        "draw": 5.0,
+        "awayWin": 7.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155334"
+          "href": "http://api.football-data.org/v1/fixtures/155336"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/4"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/495"
+        }
+      },
+      "date": "2017-03-08T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "SL Benfica",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.36,
+        "draw": 5.0,
+        "awayWin": 10.0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155334"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
         }
       },
       "date": "2017-03-14T20:45:00Z",
@@ -2756,22 +3439,65 @@
       "awayTeamName": "FC Porto",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.66,
+        "draw": 3.9,
+        "awayWin": 5.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155332"
+          "href": "http://api.football-data.org/v1/fixtures/155299"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/338"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/559"
+        }
+      },
+      "date": "2017-03-14T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Leicester City FC",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.5,
+        "draw": 3.6,
+        "awayWin": 2.1
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155332"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/3"
         }
       },
       "date": "2017-03-15T20:45:00Z",
@@ -2781,22 +3507,31 @@
       "awayTeamName": "Bayer Leverkusen",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.65,
+        "draw": 4.0,
+        "awayWin": 5.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155333"
+          "href": "http://api.football-data.org/v1/fixtures/155333"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         }
       },
       "date": "2017-03-15T20:45:00Z",
@@ -2806,22 +3541,31 @@
       "awayTeamName": "Manchester City FC",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.5,
+        "draw": 3.7,
+        "awayWin": 2.7
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155365"
+          "href": "http://api.football-data.org/v1/fixtures/155365"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         }
       },
       "date": "2017-04-11T18:45:00Z",
@@ -2831,22 +3575,31 @@
       "awayTeamName": "FC Barcelona",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.62,
+        "draw": 3.25,
+        "awayWin": 2.8
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155366"
+          "href": "http://api.football-data.org/v1/fixtures/155366"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         }
       },
       "date": "2017-04-12T16:45:00Z",
@@ -2856,22 +3609,31 @@
       "awayTeamName": "AS Monaco FC",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 3
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 1.65,
+        "draw": 4.2,
+        "awayWin": 5.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155364"
+          "href": "http://api.football-data.org/v1/fixtures/155364"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         }
       },
       "date": "2017-04-12T18:45:00Z",
@@ -2881,22 +3643,31 @@
       "awayTeamName": "Leicester City FC",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.3,
+        "draw": 5.5,
+        "awayWin": 10.0
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155363"
+          "href": "http://api.football-data.org/v1/fixtures/155363"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         }
       },
       "date": "2017-04-12T18:45:00Z",
@@ -2906,22 +3677,31 @@
       "awayTeamName": "Real Madrid CF",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.85,
+        "draw": 3.75,
+        "awayWin": 4.2
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155362"
+          "href": "http://api.football-data.org/v1/fixtures/155362"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         }
       },
       "date": "2017-04-18T18:45:00Z",
@@ -2930,23 +3710,36 @@
       "homeTeamName": "Real Madrid CF",
       "awayTeamName": "FC Bayern München",
       "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        },
+        "extraTime": {
+          "goalsHomeTeam": 4,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": {
+        "homeWin": 2.4,
+        "draw": 3.5,
+        "awayWin": 2.9
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155361"
+          "href": "http://api.football-data.org/v1/fixtures/155361"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         }
       },
       "date": "2017-04-18T18:45:00Z",
@@ -2956,22 +3749,31 @@
       "awayTeamName": "Club Atlético de Madrid",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 3.5,
+        "draw": 3.5,
+        "awayWin": 2.15
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155360"
+          "href": "http://api.football-data.org/v1/fixtures/155360"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         }
       },
       "date": "2017-04-19T18:45:00Z",
@@ -2981,22 +3783,31 @@
       "awayTeamName": "Borussia Dortmund",
       "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 3.0,
+        "draw": 3.8,
+        "awayWin": 2.25
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/155367"
+          "href": "http://api.football-data.org/v1/fixtures/155367"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         }
       },
       "date": "2017-04-19T18:45:00Z",
@@ -3006,107 +3817,178 @@
       "awayTeamName": "Juventus Turin",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.5,
+        "draw": 4.5,
+        "awayWin": 6.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/158897"
+          "href": "http://api.football-data.org/v1/fixtures/158897"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         }
       },
       "date": "2017-05-02T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "homeTeamName": "Real Madrid CF",
       "awayTeamName": "Club Atlético de Madrid",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
-      }
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/158898"
+          "href": "http://api.football-data.org/v1/fixtures/158898"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         }
       },
       "date": "2017-05-03T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "homeTeamName": "AS Monaco FC",
       "awayTeamName": "Juventus Turin",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 3.1,
+        "draw": 3.4,
+        "awayWin": 2.4
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/158899"
+          "href": "http://api.football-data.org/v1/fixtures/158899"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         }
       },
       "date": "2017-05-09T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "homeTeamName": "Juventus Turin",
       "awayTeamName": "AS Monaco FC",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "odds": {
+        "homeWin": 1.66,
+        "draw": 3.8,
+        "awayWin": 5.5
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/fixtures/158900"
+          "href": "http://api.football-data.org/v1/fixtures/158900"
         },
-        "soccerseason": {
-          "href": "http://api.football-data.org/alpha/soccerseasons/440"
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         }
       },
       "date": "2017-05-10T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "homeTeamName": "Club Atlético de Madrid",
       "awayTeamName": "Real Madrid CF",
       "result": {
-        "goalsHomeTeam": -1,
-        "goalsAwayTeam": -1
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 2.7,
+        "draw": 3.4,
+        "awayWin": 2.6
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/158925"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        }
+      },
+      "date": "2017-06-03T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 3.0,
+        "draw": 3.2,
+        "awayWin": 2.5
       }
     }
   ]

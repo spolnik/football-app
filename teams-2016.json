@@ -1,10 +1,10 @@
 {
   "_links": {
     "self": {
-      "href": "http://api.football-data.org/alpha/soccerseasons/440/teams"
+      "href": "http://api.football-data.org/v1/competitions/440/teams"
     },
-    "soccerseason": {
-      "href": "http://api.football-data.org/alpha/soccerseasons/440"
+    "competition": {
+      "href": "http://api.football-data.org/v1/competitions/440"
     }
   },
   "count": 32,
@@ -12,13 +12,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/729"
+          "href": "http://api.football-data.org/v1/teams/729"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/729/fixtures"
+          "href": "http://api.football-data.org/v1/teams/729/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/729/players"
+          "href": "http://api.football-data.org/v1/teams/729/players"
         }
       },
       "group": "A",
@@ -31,13 +31,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/753"
+          "href": "http://api.football-data.org/v1/teams/753"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/753/fixtures"
+          "href": "http://api.football-data.org/v1/teams/753/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/753/players"
+          "href": "http://api.football-data.org/v1/teams/753/players"
         }
       },
       "group": "A",
@@ -50,13 +50,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/5"
+          "href": "http://api.football-data.org/v1/teams/5"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/5/fixtures"
+          "href": "http://api.football-data.org/v1/teams/5/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/5/players"
+          "href": "http://api.football-data.org/v1/teams/5/players"
         }
       },
       "group": "D",
@@ -64,18 +64,18 @@
       "code": "FCB",
       "shortName": "Bayern",
       "squadMarketValue": "582,225,000 €",
-      "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg"
+      "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg"
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/1104"
+          "href": "http://api.football-data.org/v1/teams/1104"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/1104/fixtures"
+          "href": "http://api.football-data.org/v1/teams/1104/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/1104/players"
+          "href": "http://api.football-data.org/v1/teams/1104/players"
         }
       },
       "group": "D",
@@ -88,13 +88,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/674"
+          "href": "http://api.football-data.org/v1/teams/674"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/674/fixtures"
+          "href": "http://api.football-data.org/v1/teams/674/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/674/players"
+          "href": "http://api.football-data.org/v1/teams/674/players"
         }
       },
       "group": "D",
@@ -107,13 +107,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/78"
+          "href": "http://api.football-data.org/v1/teams/78"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/78/fixtures"
+          "href": "http://api.football-data.org/v1/teams/78/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/78/players"
+          "href": "http://api.football-data.org/v1/teams/78/players"
         }
       },
       "group": "D",
@@ -126,13 +126,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/81"
+          "href": "http://api.football-data.org/v1/teams/81"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/81/fixtures"
+          "href": "http://api.football-data.org/v1/teams/81/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/81/players"
+          "href": "http://api.football-data.org/v1/teams/81/players"
         }
       },
       "group": "C",
@@ -145,13 +145,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/732"
+          "href": "http://api.football-data.org/v1/teams/732"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/732/fixtures"
+          "href": "http://api.football-data.org/v1/teams/732/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/732/players"
+          "href": "http://api.football-data.org/v1/teams/732/players"
         }
       },
       "group": "C",
@@ -164,13 +164,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/842"
+          "href": "http://api.football-data.org/v1/teams/842"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/842/fixtures"
+          "href": "http://api.football-data.org/v1/teams/842/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/842/players"
+          "href": "http://api.football-data.org/v1/teams/842/players"
         }
       },
       "group": "B",
@@ -183,13 +183,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/113"
+          "href": "http://api.football-data.org/v1/teams/113"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/113/fixtures"
+          "href": "http://api.football-data.org/v1/teams/113/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/113/players"
+          "href": "http://api.football-data.org/v1/teams/113/players"
         }
       },
       "group": "B",
@@ -202,13 +202,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/495"
+          "href": "http://api.football-data.org/v1/teams/495"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/495/fixtures"
+          "href": "http://api.football-data.org/v1/teams/495/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/495/players"
+          "href": "http://api.football-data.org/v1/teams/495/players"
         }
       },
       "group": "B",
@@ -221,13 +221,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/600"
+          "href": "http://api.football-data.org/v1/teams/600"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/600/fixtures"
+          "href": "http://api.football-data.org/v1/teams/600/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/600/players"
+          "href": "http://api.football-data.org/v1/teams/600/players"
         }
       },
       "group": "B",
@@ -240,13 +240,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/524"
+          "href": "http://api.football-data.org/v1/teams/524"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/524/fixtures"
+          "href": "http://api.football-data.org/v1/teams/524/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/524/players"
+          "href": "http://api.football-data.org/v1/teams/524/players"
         }
       },
       "group": "A",
@@ -254,18 +254,18 @@
       "code": "PSG",
       "shortName": "PSG",
       "squadMarketValue": "412,650,000 €",
-      "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Paris_Saint-Germain_F.C..png"
+      "crestUrl": "https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg"
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/57"
+          "href": "http://api.football-data.org/v1/teams/57"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/57/fixtures"
+          "href": "http://api.football-data.org/v1/teams/57/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/57/players"
+          "href": "http://api.football-data.org/v1/teams/57/players"
         }
       },
       "group": "A",
@@ -278,13 +278,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/1105"
+          "href": "http://api.football-data.org/v1/teams/1105"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/1105/fixtures"
+          "href": "http://api.football-data.org/v1/teams/1105/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/1105/players"
+          "href": "http://api.football-data.org/v1/teams/1105/players"
         }
       },
       "group": "F",
@@ -297,13 +297,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/4"
+          "href": "http://api.football-data.org/v1/teams/4"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/4/fixtures"
+          "href": "http://api.football-data.org/v1/teams/4/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/4/players"
+          "href": "http://api.football-data.org/v1/teams/4/players"
         }
       },
       "group": "F",
@@ -316,13 +316,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/523"
+          "href": "http://api.football-data.org/v1/teams/523"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/523/fixtures"
+          "href": "http://api.football-data.org/v1/teams/523/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/523/players"
+          "href": "http://api.football-data.org/v1/teams/523/players"
         }
       },
       "group": "H",
@@ -335,13 +335,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/755"
+          "href": "http://api.football-data.org/v1/teams/755"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/755/fixtures"
+          "href": "http://api.football-data.org/v1/teams/755/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/755/players"
+          "href": "http://api.football-data.org/v1/teams/755/players"
         }
       },
       "group": "H",
@@ -354,13 +354,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/109"
+          "href": "http://api.football-data.org/v1/teams/109"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/109/fixtures"
+          "href": "http://api.football-data.org/v1/teams/109/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/109/players"
+          "href": "http://api.football-data.org/v1/teams/109/players"
         }
       },
       "group": "H",
@@ -373,13 +373,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/559"
+          "href": "http://api.football-data.org/v1/teams/559"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/559/fixtures"
+          "href": "http://api.football-data.org/v1/teams/559/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/559/players"
+          "href": "http://api.football-data.org/v1/teams/559/players"
         }
       },
       "group": "H",
@@ -392,13 +392,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/503"
+          "href": "http://api.football-data.org/v1/teams/503"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/503/fixtures"
+          "href": "http://api.football-data.org/v1/teams/503/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/503/players"
+          "href": "http://api.football-data.org/v1/teams/503/players"
         }
       },
       "group": "G",
@@ -411,13 +411,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/725"
+          "href": "http://api.football-data.org/v1/teams/725"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/725/fixtures"
+          "href": "http://api.football-data.org/v1/teams/725/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/725/players"
+          "href": "http://api.football-data.org/v1/teams/725/players"
         }
       },
       "group": "G",
@@ -430,13 +430,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/851"
+          "href": "http://api.football-data.org/v1/teams/851"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/851/fixtures"
+          "href": "http://api.football-data.org/v1/teams/851/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/851/players"
+          "href": "http://api.football-data.org/v1/teams/851/players"
         }
       },
       "group": "G",
@@ -449,13 +449,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/338"
+          "href": "http://api.football-data.org/v1/teams/338"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/338/fixtures"
+          "href": "http://api.football-data.org/v1/teams/338/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/338/players"
+          "href": "http://api.football-data.org/v1/teams/338/players"
         }
       },
       "group": "G",
@@ -468,13 +468,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/86"
+          "href": "http://api.football-data.org/v1/teams/86"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/86/fixtures"
+          "href": "http://api.football-data.org/v1/teams/86/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/86/players"
+          "href": "http://api.football-data.org/v1/teams/86/players"
         }
       },
       "group": "F",
@@ -487,13 +487,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/498"
+          "href": "http://api.football-data.org/v1/teams/498"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/498/fixtures"
+          "href": "http://api.football-data.org/v1/teams/498/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/498/players"
+          "href": "http://api.football-data.org/v1/teams/498/players"
         }
       },
       "group": "F",
@@ -501,18 +501,18 @@
       "code": "SCP",
       "shortName": "Sporting",
       "squadMarketValue": "220,250,000 €",
-      "crestUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Portugal.png"
+      "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg"
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/3"
+          "href": "http://api.football-data.org/v1/teams/3"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/3/fixtures"
+          "href": "http://api.football-data.org/v1/teams/3/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/3/players"
+          "href": "http://api.football-data.org/v1/teams/3/players"
         }
       },
       "group": "E",
@@ -520,18 +520,18 @@
       "code": "B04",
       "shortName": "Leverkusen",
       "squadMarketValue": "253,900,000 €",
-      "crestUrl": "http://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg"
+      "crestUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg"
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/751"
+          "href": "http://api.football-data.org/v1/teams/751"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/751/fixtures"
+          "href": "http://api.football-data.org/v1/teams/751/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/751/players"
+          "href": "http://api.football-data.org/v1/teams/751/players"
         }
       },
       "group": "E",
@@ -544,32 +544,32 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/65"
+          "href": "http://api.football-data.org/v1/teams/65"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/65/fixtures"
+          "href": "http://api.football-data.org/v1/teams/65/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/65/players"
+          "href": "http://api.football-data.org/v1/teams/65/players"
         }
       },
       "group": "C",
       "name": "Manchester City FC",
       "code": "MCFC",
-      "shortName": "Man City",
+      "shortName": "ManCity",
       "squadMarketValue": "518,000,000 €",
       "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/18"
+          "href": "http://api.football-data.org/v1/teams/18"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/18/fixtures"
+          "href": "http://api.football-data.org/v1/teams/18/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/18/players"
+          "href": "http://api.football-data.org/v1/teams/18/players"
         }
       },
       "group": "C",
@@ -582,13 +582,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/73"
+          "href": "http://api.football-data.org/v1/teams/73"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/73/fixtures"
+          "href": "http://api.football-data.org/v1/teams/73/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/73/players"
+          "href": "http://api.football-data.org/v1/teams/73/players"
         }
       },
       "group": "E",
@@ -601,13 +601,13 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/alpha/teams/548"
+          "href": "http://api.football-data.org/v1/teams/548"
         },
         "fixtures": {
-          "href": "http://api.football-data.org/alpha/teams/548/fixtures"
+          "href": "http://api.football-data.org/v1/teams/548/fixtures"
         },
         "players": {
-          "href": "http://api.football-data.org/alpha/teams/548/players"
+          "href": "http://api.football-data.org/v1/teams/548/players"
         }
       },
       "group": "E",
