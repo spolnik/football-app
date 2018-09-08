@@ -1,10 +1,10 @@
 {
   "_links": {
     "self": {
-      "href": "http://api.football-data.org/v1/competitions/405/fixtures"
+      "href": "http://api.football-data.org/v1/competitions/464/fixtures"
     },
     "competition": {
-      "href": "http://api.football-data.org/v1/competitions/405"
+      "href": "http://api.football-data.org/v1/competitions/464"
     }
   },
   "count": 125,
@@ -12,805 +12,1465 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149342"
+          "href": "http://api.football-data.org/v1/fixtures/164781"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/749"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Paris Saint-Germain",
-      "awayTeamName": "Malmö FF",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149372"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/109"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Manchester City FC",
-      "awayTeamName": "Juventus Turin",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149447"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/1056"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "SL Benfica",
-      "awayTeamName": "FC Astana",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149355"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/751"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "VfL Wolfsburg",
-      "awayTeamName": "CSKA Moscow",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149354"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/66"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "PSV Eindhoven",
-      "awayTeamName": "Manchester United FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149373"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/559"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/18"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Sevilla FC",
-      "awayTeamName": "Bor. Mönchengladbach",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149361"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/610"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Galatasaray SK",
-      "awayTeamName": "Club Atlético de Madrid",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149343"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/724"
-        }
-      },
-      "date": "2015-09-15T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Real Madrid CF",
-      "awayTeamName": "Shakhtar Donetsk",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149396"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/755"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        }
-      },
-      "date": "2015-09-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "GNK Dinamo Zagreb",
-      "awayTeamName": "Arsenal FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149453"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/523"
-        }
-      },
-      "date": "2015-09-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "KAA Gent",
-      "awayTeamName": "Olympique Lyonnais",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149408"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/61"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/971"
-        }
-      },
-      "date": "2015-09-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Chelsea FC",
-      "awayTeamName": "Maccabi Tel Aviv",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149384"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/3"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/748"
-        }
-      },
-      "date": "2015-09-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Bayer Leverkusen",
-      "awayTeamName": "FK BATE Baryssau",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149409"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/503"
-        }
-      },
-      "date": "2015-09-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Dynamo Kyiv",
-      "awayTeamName": "FC Porto",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149415"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/95"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        }
-      },
-      "date": "2015-09-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "Valencia CF",
-      "awayTeamName": "FC Zenit St. Petersburg",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149385"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        }
-      },
-      "date": "2015-09-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "homeTeamName": "AS Roma",
-      "awayTeamName": "FC Barcelona",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149397"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/654"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
+          "href": "http://api.football-data.org/v1/teams/498"
         }
       },
-      "date": "2015-09-16T18:45:00Z",
+      "date": "2017-09-12T18:45:00Z",
       "status": "FINISHED",
       "matchday": 1,
       "homeTeamName": "Olympiacos F.C.",
-      "awayTeamName": "FC Bayern München",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149406"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/971"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
-        }
-      },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Maccabi Tel Aviv",
-      "awayTeamName": "Dynamo Kyiv",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149382"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/3"
-        }
-      },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "FC Barcelona",
-      "awayTeamName": "Bayer Leverkusen",
+      "awayTeamName": "Sporting CP",
       "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149395"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/755"
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 3
         }
       },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "FC Bayern München",
-      "awayTeamName": "GNK Dinamo Zagreb",
-      "result": {
-        "goalsHomeTeam": 5,
-        "goalsAwayTeam": 0
-      },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149414"
+          "href": "http://api.football-data.org/v1/fixtures/164768"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/523"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/95"
-        }
-      },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Olympique Lyonnais",
-      "awayTeamName": "Valencia CF",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149452"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        }
-      },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "FC Zenit St. Petersburg",
-      "awayTeamName": "KAA Gent",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149383"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/748"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
-        }
-      },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "FK BATE Baryssau",
-      "awayTeamName": "AS Roma",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149394"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/654"
-        }
-      },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Arsenal FC",
-      "awayTeamName": "Olympiacos F.C.",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149407"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/503"
-        },
-        "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/61"
-        }
-      },
-      "date": "2015-09-29T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "FC Porto",
-      "awayTeamName": "Chelsea FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149446"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/1056"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/610"
+          "href": "http://api.football-data.org/v1/teams/611"
         }
       },
-      "date": "2015-09-30T16:00:00Z",
+      "date": "2017-09-12T18:45:00Z",
       "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "FC Astana",
-      "awayTeamName": "Galatasaray SK",
+      "matchday": 1,
+      "homeTeamName": "Chelsea FC",
+      "awayTeamName": "Qarabag Agdam FK",
       "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
+        "goalsHomeTeam": 6,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
       },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149370"
+          "href": "http://api.football-data.org/v1/fixtures/164745"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/18"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        }
-      },
-      "date": "2015-09-30T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Bor. Mönchengladbach",
-      "awayTeamName": "Manchester City FC",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149352"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/751"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        }
-      },
-      "date": "2015-09-30T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "CSKA Moscow",
-      "awayTeamName": "PSV Eindhoven",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149371"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/109"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/559"
-        }
-      },
-      "date": "2015-09-30T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Juventus Turin",
-      "awayTeamName": "Sevilla FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149360"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        }
-      },
-      "date": "2015-09-30T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Club Atlético de Madrid",
-      "awayTeamName": "SL Benfica",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149341"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/724"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        }
-      },
-      "date": "2015-09-30T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Shakhtar Donetsk",
-      "awayTeamName": "Paris Saint-Germain",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149353"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/66"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
+          "href": "http://api.football-data.org/v1/teams/729"
         }
       },
-      "date": "2015-09-30T18:45:00Z",
+      "date": "2017-09-12T18:45:00Z",
       "status": "FINISHED",
-      "matchday": 2,
+      "matchday": 1,
       "homeTeamName": "Manchester United FC",
-      "awayTeamName": "VfL Wolfsburg",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164744"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/495"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/751"
+        }
+      },
+      "date": "2017-09-12T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "SL Benfica",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164769"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        }
+      },
+      "date": "2017-09-12T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Club Atlético de Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164780"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        }
+      },
+      "date": "2017-09-12T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164756"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/726"
+        }
+      },
+      "date": "2017-09-12T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "RSC Anderlecht",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164757"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/732"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        }
+      },
+      "date": "2017-09-12T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Celtic FC",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 3
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164793"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/734"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/754"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "NK Maribor",
+      "awayTeamName": "Spartak Moskva",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164805"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/724"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Shakhtar Donetsk",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164828"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/752"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "APOEL Nicosia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164829"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "Borussia Dortmund",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164804"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/675"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Feyenoord Rotterdam",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 3
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164816"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "FC Porto",
+      "awayTeamName": "Besiktas JK",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164817"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/721"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Red Bull Leipzig",
+      "awayTeamName": "AS Monaco FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164792"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        }
+      },
+      "date": "2017-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164826"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/752"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "APOEL Nicosia",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164790"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/734"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "NK Maribor",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164791"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/754"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Spartak Moskva",
+      "awayTeamName": "Liverpool FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164815"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164827"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164814"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/721"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Besiktas JK",
+      "awayTeamName": "Red Bull Leipzig",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164802"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/724"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "Shakhtar Donetsk",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164803"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/675"
+        }
+      },
+      "date": "2017-09-26T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Feyenoord Rotterdam",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164767"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/611"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        }
+      },
+      "date": "2017-09-27T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Qarabag Agdam FK",
+      "awayTeamName": "AS Roma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164779"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/498"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        }
+      },
+      "date": "2017-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Sporting CP",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164766"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        }
+      },
+      "date": "2017-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "Chelsea FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164743"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/751"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/66"
+        }
+      },
+      "date": "2017-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Manchester United FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 3
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164778"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/654"
+        }
+      },
+      "date": "2017-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "Olympiacos F.C.",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164742"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/495"
+        }
+      },
+      "date": "2017-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "FC Basel",
+      "awayTeamName": "SL Benfica",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164755"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        }
+      },
+      "date": "2017-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Paris Saint-Germain",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164754"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/726"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/732"
+        }
+      },
+      "date": "2017-09-27T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "RSC Anderlecht",
+      "awayTeamName": "Celtic FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164801"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "SSC Napoli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164813"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/721"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Red Bull Leipzig",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164812"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "Besiktas JK",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164800"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/675"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/724"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Feyenoord Rotterdam",
+      "awayTeamName": "Shakhtar Donetsk",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164825"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164824"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/752"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "APOEL Nicosia",
+      "awayTeamName": "Borussia Dortmund",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164788"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/734"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "NK Maribor",
+      "awayTeamName": "Liverpool FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 7,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 4
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164789"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/754"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        }
+      },
+      "date": "2017-10-17T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Spartak Moskva",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164765"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/611"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        }
+      },
+      "date": "2017-10-18T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Qarabag Agdam FK",
+      "awayTeamName": "Club Atlético de Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164753"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/732"
+        }
+      },
+      "date": "2017-10-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "Celtic FC",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164776"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/654"
+        }
+      },
+      "date": "2017-10-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "Olympiacos F.C.",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164777"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/498"
+        }
+      },
+      "date": "2017-10-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "Sporting CP",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164764"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        }
+      },
+      "date": "2017-10-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Chelsea FC",
+      "awayTeamName": "AS Roma",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164752"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/726"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        }
+      },
+      "date": "2017-10-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "RSC Anderlecht",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164741"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/751"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        }
+      },
+      "date": "2017-10-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164740"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/495"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/66"
+        }
+      },
+      "date": "2017-10-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "SL Benfica",
+      "awayTeamName": "Manchester United FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164762"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/611"
+        }
+      },
+      "date": "2017-10-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "Qarabag Agdam FK",
+      "result": {
+        "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       },
       "odds": null
@@ -818,25 +1478,25 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149340"
+          "href": "http://api.football-data.org/v1/fixtures/164738"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/749"
+          "href": "http://api.football-data.org/v1/teams/729"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
+          "href": "http://api.football-data.org/v1/teams/751"
         }
       },
-      "date": "2015-09-30T18:45:00Z",
+      "date": "2017-10-31T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 2,
-      "homeTeamName": "Malmö FF",
-      "awayTeamName": "Real Madrid CF",
+      "matchday": 4,
+      "homeTeamName": "FC Basel",
+      "awayTeamName": "CSKA Moscow",
       "result": {
-        "goalsHomeTeam": 0,
+        "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       },
       "odds": null
@@ -844,25 +1504,685 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149381"
+          "href": "http://api.football-data.org/v1/fixtures/164739"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/3"
+          "href": "http://api.football-data.org/v1/teams/66"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
+          "href": "http://api.football-data.org/v1/teams/495"
         }
       },
-      "date": "2015-10-20T18:45:00Z",
+      "date": "2017-10-31T20:45:00Z",
       "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Bayer Leverkusen",
-      "awayTeamName": "AS Roma",
+      "matchday": 4,
+      "homeTeamName": "Manchester United FC",
+      "awayTeamName": "SL Benfica",
       "result": {
-        "goalsHomeTeam": 4,
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164750"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/732"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        }
+      },
+      "date": "2017-10-31T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Celtic FC",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164751"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/726"
+        }
+      },
+      "date": "2017-10-31T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Paris Saint-Germain",
+      "awayTeamName": "RSC Anderlecht",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164915"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        }
+      },
+      "date": "2017-10-31T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Chelsea FC",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164775"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/498"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        }
+      },
+      "date": "2017-10-31T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Sporting CP",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164774"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/654"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        }
+      },
+      "date": "2017-10-31T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Olympiacos F.C.",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164811"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        }
+      },
+      "date": "2017-11-01T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Besiktas JK",
+      "awayTeamName": "AS Monaco FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164798"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        }
+      },
+      "date": "2017-11-01T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164823"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        }
+      },
+      "date": "2017-11-01T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164822"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/752"
+        }
+      },
+      "date": "2017-11-01T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "APOEL Nicosia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164810"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/721"
+        }
+      },
+      "date": "2017-11-01T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "FC Porto",
+      "awayTeamName": "Red Bull Leipzig",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164786"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/734"
+        }
+      },
+      "date": "2017-11-01T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "NK Maribor",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164787"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/754"
+        }
+      },
+      "date": "2017-11-01T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "Spartak Moskva",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164799"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/724"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/675"
+        }
+      },
+      "date": "2017-11-01T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Shakhtar Donetsk",
+      "awayTeamName": "Feyenoord Rotterdam",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164809"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        }
+      },
+      "date": "2017-11-21T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Besiktas JK",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164785"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/754"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/734"
+        }
+      },
+      "date": "2017-11-21T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Spartak Moskva",
+      "awayTeamName": "NK Maribor",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164796"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/675"
+        }
+      },
+      "date": "2017-11-21T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "Feyenoord Rotterdam",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164808"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/721"
+        }
+      },
+      "date": "2017-11-21T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "Red Bull Leipzig",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 4
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164797"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/724"
+        }
+      },
+      "date": "2017-11-21T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Shakhtar Donetsk",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164784"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2017-11-21T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "Liverpool FC",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 3
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164821"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2017-11-21T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164820"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/752"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        }
+      },
+      "date": "2017-11-21T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "APOEL Nicosia",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 6,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 4
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164761"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/611"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        }
+      },
+      "date": "2017-11-22T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Qarabag Agdam FK",
+      "awayTeamName": "Chelsea FC",
+      "result": {
+        "goalsHomeTeam": 0,
         "goalsAwayTeam": 4
       },
       "odds": null
@@ -870,441 +2190,231 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149451"
+          "href": "http://api.football-data.org/v1/fixtures/164737"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/95"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        }
-      },
-      "date": "2015-10-20T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Valencia CF",
-      "awayTeamName": "KAA Gent",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149392"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        }
-      },
-      "date": "2015-10-20T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Arsenal FC",
-      "awayTeamName": "FC Bayern München",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149413"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/523"
-        }
-      },
-      "date": "2015-10-20T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "FC Zenit St. Petersburg",
-      "awayTeamName": "Olympique Lyonnais",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149393"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/755"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/654"
-        }
-      },
-      "date": "2015-10-20T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "GNK Dinamo Zagreb",
-      "awayTeamName": "Olympiacos F.C.",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149404"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/61"
-        }
-      },
-      "date": "2015-10-20T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Dynamo Kyiv",
-      "awayTeamName": "Chelsea FC",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149405"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/503"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/971"
-        }
-      },
-      "date": "2015-10-20T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "FC Porto",
-      "awayTeamName": "Maccabi Tel Aviv",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149380"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/748"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        }
-      },
-      "date": "2015-10-20T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "FK BATE Baryssau",
-      "awayTeamName": "FC Barcelona",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149339"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        }
-      },
-      "date": "2015-10-21T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Paris Saint-Germain",
-      "awayTeamName": "Real Madrid CF",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149351"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        }
-      },
-      "date": "2015-10-21T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "VfL Wolfsburg",
-      "awayTeamName": "PSV Eindhoven",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149338"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/749"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/724"
-        }
-      },
-      "date": "2015-10-21T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Malmö FF",
-      "awayTeamName": "Shakhtar Donetsk",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149445"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/1056"
-        }
-      },
-      "date": "2015-10-21T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Club Atlético de Madrid",
-      "awayTeamName": "FC Astana",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149369"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/559"
-        }
-      },
-      "date": "2015-10-21T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Manchester City FC",
-      "awayTeamName": "Sevilla FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149350"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/751"
         },
         "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/495"
+        }
+      },
+      "date": "2017-11-22T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "SL Benfica",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164736"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        },
+        "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/66"
         }
       },
-      "date": "2015-10-21T18:45:00Z",
+      "date": "2017-11-22T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "CSKA Moscow",
+      "matchday": 5,
+      "homeTeamName": "FC Basel",
       "awayTeamName": "Manchester United FC",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsAwayTeam": 0
       },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149359"
+          "href": "http://api.football-data.org/v1/fixtures/164772"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/610"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        }
-      },
-      "date": "2015-10-21T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "homeTeamName": "Galatasaray SK",
-      "awayTeamName": "SL Benfica",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149368"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/109"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/18"
+          "href": "http://api.football-data.org/v1/teams/81"
         }
       },
-      "date": "2015-10-21T18:45:00Z",
+      "date": "2017-11-22T20:45:00Z",
       "status": "FINISHED",
-      "matchday": 3,
+      "matchday": 5,
       "homeTeamName": "Juventus Turin",
-      "awayTeamName": "Bor. Mönchengladbach",
+      "awayTeamName": "FC Barcelona",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
       },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149444"
+          "href": "http://api.football-data.org/v1/fixtures/164760"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/1056"
-        },
-        "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/78"
-        }
-      },
-      "date": "2015-11-03T15:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "FC Astana",
-      "awayTeamName": "Club Atlético de Madrid",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149337"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/724"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/749"
+          "href": "http://api.football-data.org/v1/teams/100"
         }
       },
-      "date": "2015-11-03T19:45:00Z",
+      "date": "2017-11-22T20:45:00Z",
       "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "Shakhtar Donetsk",
-      "awayTeamName": "Malmö FF",
+      "matchday": 5,
+      "homeTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "AS Roma",
       "result": {
-        "goalsHomeTeam": 4,
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164749"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/732"
+        }
+      },
+      "date": "2017-11-22T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Paris Saint-Germain",
+      "awayTeamName": "Celtic FC",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 4,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164773"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/498"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/654"
+        }
+      },
+      "date": "2017-11-22T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Sporting CP",
+      "awayTeamName": "Olympiacos F.C.",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164748"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/726"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        }
+      },
+      "date": "2017-11-22T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "RSC Anderlecht",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164759"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/611"
+        }
+      },
+      "date": "2017-12-05T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Qarabag Agdam FK",
+      "result": {
+        "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       },
       "odds": null
@@ -1312,36 +2422,126 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149358"
+          "href": "http://api.football-data.org/v1/fixtures/164734"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/495"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/610"
+          "href": "http://api.football-data.org/v1/teams/729"
         }
       },
-      "date": "2015-11-03T19:45:00Z",
+      "date": "2017-12-05T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 4,
+      "matchday": 6,
       "homeTeamName": "SL Benfica",
-      "awayTeamName": "Galatasaray SK",
+      "awayTeamName": "FC Basel",
       "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
       },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149348"
+          "href": "http://api.football-data.org/v1/fixtures/164747"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/732"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/726"
+        }
+      },
+      "date": "2017-12-05T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Celtic FC",
+      "awayTeamName": "RSC Anderlecht",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164770"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/498"
+        }
+      },
+      "date": "2017-12-05T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "Sporting CP",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164746"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        }
+      },
+      "date": "2017-12-05T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164735"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/66"
@@ -1350,102 +2550,384 @@
           "href": "http://api.football-data.org/v1/teams/751"
         }
       },
-      "date": "2015-11-03T19:45:00Z",
+      "date": "2017-12-05T20:45:00Z",
       "status": "FINISHED",
-      "matchday": 4,
+      "matchday": 6,
       "homeTeamName": "Manchester United FC",
       "awayTeamName": "CSKA Moscow",
       "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149367"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/559"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        }
-      },
-      "date": "2015-11-03T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "Sevilla FC",
-      "awayTeamName": "Manchester City FC",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149349"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        }
-      },
-      "date": "2015-11-03T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "PSV Eindhoven",
-      "awayTeamName": "VfL Wolfsburg",
-      "result": {
         "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
       },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149366"
+          "href": "http://api.football-data.org/v1/fixtures/164758"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/18"
+          "href": "http://api.football-data.org/v1/teams/61"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        }
+      },
+      "date": "2017-12-05T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Chelsea FC",
+      "awayTeamName": "Club Atlético de Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164771"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/654"
         },
         "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/109"
         }
       },
-      "date": "2015-11-03T19:45:00Z",
+      "date": "2017-12-05T20:45:00Z",
       "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "Bor. Mönchengladbach",
+      "matchday": 6,
+      "homeTeamName": "Olympiacos F.C.",
       "awayTeamName": "Juventus Turin",
       "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
       },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149336"
+          "href": "http://api.football-data.org/v1/fixtures/164807"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/721"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Red Bull Leipzig",
+      "awayTeamName": "Besiktas JK",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164819"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/752"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "APOEL Nicosia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164818"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "Borussia Dortmund",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164783"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/734"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "NK Maribor",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164794"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/675"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Feyenoord Rotterdam",
+      "awayTeamName": "SSC Napoli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164795"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/724"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Shakhtar Donetsk",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164782"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/754"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "Spartak Moskva",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164806"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        }
+      },
+      "date": "2017-12-06T20:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "FC Porto",
+      "awayTeamName": "AS Monaco FC",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165147"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        }
+      },
+      "date": "2018-02-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "FC Basel",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165148"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2018-02-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165146"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/86"
@@ -1454,281 +2936,17 @@
           "href": "http://api.football-data.org/v1/teams/524"
         }
       },
-      "date": "2015-11-03T19:45:00Z",
+      "date": "2018-02-14T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 4,
+      "matchday": 7,
       "homeTeamName": "Real Madrid CF",
       "awayTeamName": "Paris Saint-Germain",
       "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149402"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/61"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "Chelsea FC",
-      "awayTeamName": "Dynamo Kyiv",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149403"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/971"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/503"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "Maccabi Tel Aviv",
-      "awayTeamName": "FC Porto",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149391"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/654"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/755"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "Olympiacos F.C.",
-      "awayTeamName": "GNK Dinamo Zagreb",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149390"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "FC Bayern München",
-      "awayTeamName": "Arsenal FC",
-      "result": {
-        "goalsHomeTeam": 5,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149412"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/523"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "Olympique Lyonnais",
-      "awayTeamName": "FC Zenit St. Petersburg",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149450"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/95"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "KAA Gent",
-      "awayTeamName": "Valencia CF",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149379"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/3"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "AS Roma",
-      "awayTeamName": "Bayer Leverkusen",
-      "result": {
         "goalsHomeTeam": 3,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149378"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/748"
-        }
-      },
-      "date": "2015-11-04T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "homeTeamName": "FC Barcelona",
-      "awayTeamName": "FK BATE Baryssau",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149411"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/95"
-        }
-      },
-      "date": "2015-11-24T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "FC Zenit St. Petersburg",
-      "awayTeamName": "Valencia CF",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0,
-        "halfTime": {
-          "goalsHomeTeam": 2,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149377"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/748"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/3"
-        }
-      },
-      "date": "2015-11-24T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "FK BATE Baryssau",
-      "awayTeamName": "Bayer Leverkusen",
-      "result": {
-        "goalsHomeTeam": 1,
         "goalsAwayTeam": 1,
         "halfTime": {
           "goalsHomeTeam": 1,
-          "goalsAwayTeam": 0
+          "goalsAwayTeam": 1
         }
       },
       "odds": null
@@ -1736,293 +2954,23 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149401"
+          "href": "http://api.football-data.org/v1/fixtures/165145"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/503"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
+          "href": "http://api.football-data.org/v1/teams/64"
         }
       },
-      "date": "2015-11-24T19:45:00Z",
+      "date": "2018-02-14T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 5,
+      "matchday": 7,
       "homeTeamName": "FC Porto",
-      "awayTeamName": "Dynamo Kyiv",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 1
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149376"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
-        }
-      },
-      "date": "2015-11-24T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "FC Barcelona",
-      "awayTeamName": "AS Roma",
-      "result": {
-        "goalsHomeTeam": 6,
-        "goalsAwayTeam": 1,
-        "halfTime": {
-          "goalsHomeTeam": 3,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149388"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/755"
-        }
-      },
-      "date": "2015-11-24T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Arsenal FC",
-      "awayTeamName": "GNK Dinamo Zagreb",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0,
-        "halfTime": {
-          "goalsHomeTeam": 2,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149449"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/523"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        }
-      },
-      "date": "2015-11-24T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Olympique Lyonnais",
-      "awayTeamName": "KAA Gent",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 1,
-          "goalsAwayTeam": 1
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149400"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/971"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/61"
-        }
-      },
-      "date": "2015-11-24T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Maccabi Tel Aviv",
-      "awayTeamName": "Chelsea FC",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 4,
-        "halfTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 1
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149389"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/654"
-        }
-      },
-      "date": "2015-11-24T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "FC Bayern München",
-      "awayTeamName": "Olympiacos F.C.",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 0,
-        "halfTime": {
-          "goalsHomeTeam": 3,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149443"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/1056"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        }
-      },
-      "date": "2015-11-25T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "FC Astana",
-      "awayTeamName": "SL Benfica",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 2,
-          "goalsAwayTeam": 1
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149347"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/751"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        }
-      },
-      "date": "2015-11-25T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "CSKA Moscow",
-      "awayTeamName": "VfL Wolfsburg",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149346"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/66"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        }
-      },
-      "date": "2015-11-25T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Manchester United FC",
-      "awayTeamName": "PSV Eindhoven",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0,
-        "halfTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149334"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/749"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        }
-      },
-      "date": "2015-11-25T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Malmö FF",
-      "awayTeamName": "Paris Saint-Germain",
+      "awayTeamName": "Liverpool FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 5,
@@ -2036,26 +2984,86 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149335"
+          "href": "http://api.football-data.org/v1/fixtures/165144"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        }
+      },
+      "date": "2018-02-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Chelsea FC",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165143"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        }
+      },
+      "date": "2018-02-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "Besiktas JK",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165142"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/724"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
+          "href": "http://api.football-data.org/v1/teams/100"
         }
       },
-      "date": "2015-11-25T19:45:00Z",
+      "date": "2018-02-21T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 5,
+      "matchday": 7,
       "homeTeamName": "Shakhtar Donetsk",
-      "awayTeamName": "Real Madrid CF",
+      "awayTeamName": "AS Roma",
       "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 4,
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1,
         "halfTime": {
           "goalsHomeTeam": 0,
           "goalsAwayTeam": 1
@@ -2066,889 +3074,29 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149364"
+          "href": "http://api.football-data.org/v1/fixtures/165141"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/18"
-        },
-        "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/559"
-        }
-      },
-      "date": "2015-11-25T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Bor. Mönchengladbach",
-      "awayTeamName": "Sevilla FC",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 1,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149357"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/610"
-        }
-      },
-      "date": "2015-11-25T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Club Atlético de Madrid",
-      "awayTeamName": "Galatasaray SK",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0,
-        "halfTime": {
-          "goalsHomeTeam": 1,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149365"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/109"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        }
-      },
-      "date": "2015-11-25T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "homeTeamName": "Juventus Turin",
-      "awayTeamName": "Manchester City FC",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0,
-        "halfTime": {
-          "goalsHomeTeam": 1,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149442"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/610"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/1056"
-        }
-      },
-      "date": "2015-12-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Galatasaray SK",
-      "awayTeamName": "FC Astana",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149333"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/749"
-        }
-      },
-      "date": "2015-12-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Real Madrid CF",
-      "awayTeamName": "Malmö FF",
-      "result": {
-        "goalsHomeTeam": 8,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149344"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/751"
-        }
-      },
-      "date": "2015-12-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "PSV Eindhoven",
-      "awayTeamName": "CSKA Moscow",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149345"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
         },
         "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/66"
         }
       },
-      "date": "2015-12-08T19:45:00Z",
+      "date": "2018-02-21T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "VfL Wolfsburg",
-      "awayTeamName": "Manchester United FC",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149362"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/18"
-        }
-      },
-      "date": "2015-12-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Manchester City FC",
-      "awayTeamName": "Bor. Mönchengladbach",
-      "result": {
-        "goalsHomeTeam": 4,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149332"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/724"
-        }
-      },
-      "date": "2015-12-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Paris Saint-Germain",
-      "awayTeamName": "Shakhtar Donetsk",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149363"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/559"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/109"
-        }
-      },
-      "date": "2015-12-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
+      "matchday": 7,
       "homeTeamName": "Sevilla FC",
-      "awayTeamName": "Juventus Turin",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149356"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        }
-      },
-      "date": "2015-12-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "SL Benfica",
-      "awayTeamName": "Club Atlético de Madrid",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149387"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/654"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Olympiacos F.C.",
-      "awayTeamName": "Arsenal FC",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149386"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/755"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "GNK Dinamo Zagreb",
-      "awayTeamName": "FC Bayern München",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149374"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/3"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Bayer Leverkusen",
-      "awayTeamName": "FC Barcelona",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149448"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "KAA Gent",
-      "awayTeamName": "FC Zenit St. Petersburg",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149410"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/95"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/523"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Valencia CF",
-      "awayTeamName": "Olympique Lyonnais",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149375"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/748"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "AS Roma",
-      "awayTeamName": "FK BATE Baryssau",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149399"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/971"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Dynamo Kyiv",
-      "awayTeamName": "Maccabi Tel Aviv",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149398"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/61"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/503"
-        }
-      },
-      "date": "2015-12-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "homeTeamName": "Chelsea FC",
-      "awayTeamName": "FC Porto",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149903"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        }
-      },
-      "date": "2016-02-16T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "SL Benfica",
-      "awayTeamName": "FC Zenit St. Petersburg",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149904"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/61"
-        }
-      },
-      "date": "2016-02-16T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Paris Saint-Germain",
-      "awayTeamName": "Chelsea FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149901"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        }
-      },
-      "date": "2016-02-17T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "KAA Gent",
-      "awayTeamName": "VfL Wolfsburg",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149902"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        }
-      },
-      "date": "2016-02-17T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "AS Roma",
-      "awayTeamName": "Real Madrid CF",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149900"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/109"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        }
-      },
-      "date": "2016-02-23T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Juventus Turin",
-      "awayTeamName": "FC Bayern München",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 1
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149899"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        }
-      },
-      "date": "2016-02-23T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Arsenal FC",
-      "awayTeamName": "FC Barcelona",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 0
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149898"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        }
-      },
-      "date": "2016-02-24T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "PSV Eindhoven",
-      "awayTeamName": "Club Atlético de Madrid",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149897"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        }
-      },
-      "date": "2016-02-24T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Dynamo Kyiv",
-      "awayTeamName": "Manchester City FC",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 3
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149896"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/1057"
-        }
-      },
-      "date": "2016-03-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "VfL Wolfsburg",
-      "awayTeamName": "KAA Gent",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149895"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/100"
-        }
-      },
-      "date": "2016-03-08T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Real Madrid CF",
-      "awayTeamName": "AS Roma",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149893"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/731"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        }
-      },
-      "date": "2016-03-09T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "FC Zenit St. Petersburg",
-      "awayTeamName": "SL Benfica",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149894"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/61"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        }
-      },
-      "date": "2016-03-09T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Chelsea FC",
-      "awayTeamName": "Paris Saint-Germain",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149892"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/842"
-        }
-      },
-      "date": "2016-03-15T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Manchester City FC",
-      "awayTeamName": "Dynamo Kyiv",
-      "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149891"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/674"
-        }
-      },
-      "date": "2016-03-15T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "Club Atlético de Madrid",
-      "awayTeamName": "PSV Eindhoven",
+      "awayTeamName": "Manchester United FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0,
         "halfTime": {
           "goalsHomeTeam": 0,
           "goalsAwayTeam": 0
-        },
-        "extraTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 0
-        },
-        "penaltyShootout": {
-          "goalsHomeTeam": 8,
-          "goalsAwayTeam": 7
         }
       },
       "odds": null
@@ -2956,241 +3104,25 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149889"
+          "href": "http://api.football-data.org/v1/fixtures/165140"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/57"
-        }
-      },
-      "date": "2016-03-16T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "FC Barcelona",
-      "awayTeamName": "Arsenal FC",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149890"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/109"
-        }
-      },
-      "date": "2016-03-16T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "homeTeamName": "FC Bayern München",
-      "awayTeamName": "Juventus Turin",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2,
-        "halfTime": {
-          "goalsHomeTeam": 0,
-          "goalsAwayTeam": 2
-        },
-        "extraTime": {
-          "goalsHomeTeam": 4,
-          "goalsAwayTeam": 2
-        }
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149438"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
-        }
-      },
-      "date": "2016-04-05T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 8,
-      "homeTeamName": "FC Barcelona",
-      "awayTeamName": "Club Atlético de Madrid",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149436"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        }
-      },
-      "date": "2016-04-05T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 8,
-      "homeTeamName": "FC Bayern München",
-      "awayTeamName": "SL Benfica",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149441"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/524"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
+          "href": "http://api.football-data.org/v1/teams/86"
         }
       },
-      "date": "2016-04-06T18:45:00Z",
+      "date": "2018-03-06T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 8,
+      "matchday": 7,
       "homeTeamName": "Paris Saint-Germain",
-      "awayTeamName": "Manchester City FC",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149437"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        }
-      },
-      "date": "2016-04-06T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 8,
-      "homeTeamName": "VfL Wolfsburg",
       "awayTeamName": "Real Madrid CF",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149440"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/524"
-        }
-      },
-      "date": "2016-04-12T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 8,
-      "homeTeamName": "Manchester City FC",
-      "awayTeamName": "Paris Saint-Germain",
       "result": {
         "goalsHomeTeam": 1,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149439"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/11"
-        }
-      },
-      "date": "2016-04-12T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 8,
-      "homeTeamName": "Real Madrid CF",
-      "awayTeamName": "VfL Wolfsburg",
-      "result": {
-        "goalsHomeTeam": 3,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149456"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/495"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
-        }
-      },
-      "date": "2016-04-13T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 8,
-      "homeTeamName": "SL Benfica",
-      "awayTeamName": "FC Bayern München",
-      "result": {
-        "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       },
       "odds": null
@@ -3198,49 +3130,23 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149457"
+          "href": "http://api.football-data.org/v1/fixtures/165139"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
+          "href": "http://api.football-data.org/v1/teams/64"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/81"
+          "href": "http://api.football-data.org/v1/teams/503"
         }
       },
-      "date": "2016-04-13T18:45:00Z",
+      "date": "2018-03-06T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 8,
-      "homeTeamName": "Club Atlético de Madrid",
-      "awayTeamName": "FC Barcelona",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 0
-      },
-      "odds": null
-    },
-    {
-      "_links": {
-        "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149434"
-        },
-        "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
-        },
-        "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/65"
-        },
-        "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/86"
-        }
-      },
-      "date": "2016-04-26T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "homeTeamName": "Manchester City FC",
-      "awayTeamName": "Real Madrid CF",
+      "matchday": 7,
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "FC Porto",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -3250,25 +3156,163 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149433"
+          "href": "http://api.football-data.org/v1/fixtures/165138"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
+          "href": "http://api.football-data.org/v1/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        }
+      },
+      "date": "2018-03-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165137"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        }
+      },
+      "date": "2018-03-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165136"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/724"
+        }
+      },
+      "date": "2018-03-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Shakhtar Donetsk",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165135"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/66"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        }
+      },
+      "date": "2018-03-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Manchester United FC",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165134"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
         },
         "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/5"
         }
       },
-      "date": "2016-04-27T18:45:00Z",
+      "date": "2018-03-14T17:00:00Z",
       "status": "FINISHED",
-      "matchday": 9,
-      "homeTeamName": "Club Atlético de Madrid",
+      "matchday": 7,
+      "homeTeamName": "Besiktas JK",
       "awayTeamName": "FC Bayern München",
       "result": {
         "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/165133"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        }
+      },
+      "date": "2018-03-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "Chelsea FC",
+      "result": {
+        "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       },
       "odds": null
@@ -3276,51 +3320,145 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149435"
+          "href": "http://api.football-data.org/v1/fixtures/166798"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
-          "href": "http://api.football-data.org/v1/teams/5"
+          "href": "http://api.football-data.org/v1/teams/559"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
+          "href": "http://api.football-data.org/v1/teams/5"
         }
       },
-      "date": "2016-05-03T18:45:00Z",
+      "date": "2018-04-03T18:45:00Z",
       "status": "FINISHED",
-      "matchday": 9,
-      "homeTeamName": "FC Bayern München",
-      "awayTeamName": "Club Atlético de Madrid",
+      "matchday": 8,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "FC Bayern München",
       "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 1
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
       },
       "odds": null
     },
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149432"
+          "href": "http://api.football-data.org/v1/fixtures/166797"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        },
+        "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/86"
+        }
+      },
+      "date": "2018-04-03T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Juventus Turin",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164859"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        }
+      },
+      "date": "2018-04-04T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "FC Barcelona",
+      "awayTeamName": "AS Roma",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164861"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
         },
         "awayTeam": {
           "href": "http://api.football-data.org/v1/teams/65"
         }
       },
-      "date": "2016-05-04T18:45:00Z",
+      "date": "2018-04-04T18:45:00Z",
       "status": "FINISHED",
-      "matchday": 9,
-      "homeTeamName": "Real Madrid CF",
+      "matchday": 8,
+      "homeTeamName": "Liverpool FC",
       "awayTeamName": "Manchester City FC",
       "result": {
-        "goalsHomeTeam": 1,
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/164860"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        }
+      },
+      "date": "2018-04-10T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       },
       "odds": null
@@ -3328,37 +3466,227 @@
     {
       "_links": {
         "self": {
-          "href": "http://api.football-data.org/v1/fixtures/149430"
+          "href": "http://api.football-data.org/v1/fixtures/164862"
         },
         "competition": {
-          "href": "http://api.football-data.org/v1/competitions/405"
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2018-04-10T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "Liverpool FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/166795"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        }
+      },
+      "date": "2018-04-11T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "Sevilla FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/166796"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
         },
         "homeTeam": {
           "href": "http://api.football-data.org/v1/teams/86"
         },
         "awayTeam": {
-          "href": "http://api.football-data.org/v1/teams/78"
+          "href": "http://api.football-data.org/v1/teams/109"
         }
       },
-      "date": "2016-05-28T18:45:00Z",
+      "date": "2018-04-11T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/166840"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        }
+      },
+      "date": "2018-04-24T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "AS Roma",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/166838"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        }
+      },
+      "date": "2018-04-25T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/166839"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        }
+      },
+      "date": "2018-05-01T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/166837"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2018-05-02T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Liverpool FC",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 2
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/166842"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/464"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2018-05-26T18:45:00Z",
       "status": "FINISHED",
       "matchday": 10,
       "homeTeamName": "Real Madrid CF",
-      "awayTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "Liverpool FC",
       "result": {
-        "goalsHomeTeam": 1,
+        "goalsHomeTeam": 3,
         "goalsAwayTeam": 1,
         "halfTime": {
-          "goalsHomeTeam": 1,
+          "goalsHomeTeam": 0,
           "goalsAwayTeam": 0
-        },
-        "extraTime": {
-          "goalsHomeTeam": 1,
-          "goalsAwayTeam": 1
-        },
-        "penaltyShootout": {
-          "goalsHomeTeam": 5,
-          "goalsAwayTeam": 3
         }
       },
       "odds": null
